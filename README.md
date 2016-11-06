@@ -1,4 +1,4 @@
-3W visualisation of the response to Typhoon Haima in the Philippines
+3W visualisation of the PRC response to Typhoon Haima in the Philippines
 ==============
 
 A dc.js visualisation of 3W data.
