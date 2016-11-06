@@ -149,7 +149,7 @@
                     })
                     .projection(d3.geo.mercator().center([121,17.5]).scale(8000))
                     .title(function (d) {
-                        return "Province: " + pcode2prov[d.key] + " - " + d.value + 'clusters * municipalities';
+                        return "Province: " + pcode2prov[d.key] + " - " + d.value + ' clusters * municipalities';
                     });
                     
                     d3.json("data/Phil_municipalities.geojson", function (municJSON){
