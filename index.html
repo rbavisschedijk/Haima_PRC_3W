@@ -6,7 +6,7 @@
     <title>Typhoon Haima PRC 3W Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> <!--href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css"> -->
     <link rel="stylesheet" type="text/css" href="css/dc.css"/>
     <link rel="stylesheet" type="text/css" href="css/3w-dashboard.css"/>
     <script src="//code.jquery.com/jquery.js"></script>
@@ -18,42 +18,61 @@
     </div>
     <div class="container" id="dashboard">
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="row">
 			<div style="display:flex">
 				<img src="images/prc_logo.png" style="height: 80px; width: 80px; top: 50px">
 				<div>
-					<h3>Typhoon Haima</h3>
-					<h3>PRC 3W Dashboard</h3>
+					<h3>Typhoon Haima<br>PRC 3W Dashboard</h3>
 				</div>
 			</div>
-            <div class="col-xs-12">Explore What PRC does Where for Typhoon Haima. Last update: 3rd Nov 2016</div>
-            <div id="count-info" class="col-xs-9">
+            <div class="col-xs-12">Explore What PRC does Where for Typhoon Haima.<br>Last update: 3rd Nov 2016</div>
+            <div id="count-info" class="col-xs-10">
               <span class="filter-count "></span> selected out of <span class="total-count "></span> records
             </div>
-            <div class="col-xs-3">
-              <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
+            <div id="count-info" class="col-xs-2">
+			  <a style="background-color: #BF002D" class="btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a>
             </div>
           </div>  
+		<hr>
           <div class="row">
-            <div id="sectors" class="col-lg-12">
+            <div id="sectors_mun" class="col-lg-6">
               <h4>Sectors</h4>
-              <div class="col-xs-12"># of municipalities</div>
+              <div class="col-xs-12"># of activities*</div>
             </div>
-          </div>          
-<!--           <div class="row">
-            <div id="status" class="col-xs-6">
-              <h4>Status</h4>
+            <div id="services" class="col-lg-6">
+              <h4>Services provided</h4>
+              <div class="col-xs-12"># of activities*</div>
             </div>
-          </div> -->
+          </div>
+		  * One activity is defined by sector, subsector, service provided, municipality and status. So for example if multiple barangays were visited within a municipality this doesn´t count as multiple activities.
         </div>
-        <div id="map" class="col-lg-8">
+        <div id="map" class="col-lg-6">
           <h3>Map (Where)</h3><p><a href="javascript:municipalitiesMapShow();">Municipalities</a> - Provinces</p>
         </div>
-        <div id="map2" class="col-lg-8">
+        <div id="map2" class="col-lg-6">
           <h3>Map (Where)</h3><p>Municipalities - <a href="javascript:provincesMapShow();">Provinces</a></p>
         </div>            
       </div>
+	  <div class='row'>
+		<div class='span12'>
+		  <table class='table table-hover' id='dc-table-graph'>
+			<thead>
+			  <tr class='header'>
+				<th>Organisation</th>
+				<th>Sector</th>
+				<th>Subsector</th>
+				<th>Service provided</th>
+				<th>Province</th>
+				<th>Municipality</th>
+				<th>Status</th>
+				<th>Beneficiaries</th>
+				<th>Beneficiary type</th>				
+			  </tr>
+			</thead>
+		  </table>
+		</div>
+	  </div>
       Created by Jannis Visser - JannisVisser(at)redcross(dot)nl - Skype: jannis.visser 
     </div>
     <script type="text/javascript" src="js/d3.js"></script>
@@ -72,109 +91,7 @@
         })();
 
     </script>
-    <script>
-        
-        function provincesMapShow(){
-            $('#map2').hide();           
-            $('#map').show();
-            map2_chart.filterAll();
-            dc.redrawAll();
-        }
-        
-        function municipalitiesMapShow(){
-            $('#map').hide();
-            $('#map2').show();
-        }
-		
-        $('#dashboard').hide();
-        $('#map').hide();
-        //var status_chart = dc.pieChart("#status");
-        var map_chart = dc.geoChoroplethChart("#map");
-        var sector_chart = dc.rowChart("#sectors");
-        var map2_chart = dc.geoChoroplethChart("#map2");
-        
-        d3.csv("data/3W_Data.csv", function(csv_data){
-            var cf = crossfilter(csv_data);
-            
-            cf.sector = cf.dimension(function(d) { return d.SctrCluster; });
-            //cf.status = cf.dimension(function(d) { return d.Status; });
-            cf.pcode = cf.dimension(function(d) { return d.ProvinceCODE; });
-            cf.organisation = cf.dimension(function(d) { return d.Organisation; });
-            cf.mcode = cf.dimension(function(d) { return d.MCODE; });
-            
-            var sector = cf.sector.group();
-            //var status = cf.status.group();
-            var pcode = cf.pcode.group();
-            var organisation = cf.organisation.group();
-            var all = cf.groupAll();
-            var mcode = cf.mcode.group();
-            
-            //status_chart.width(180).height(180)
-            //    .dimension(cf.status)
-            //    .group(status)
-            //    .innerRadius(10)
-            //    .colors(['#2ca25f',                                   
-            //            '#3182bd',
-            //            '#ffeda0'                                                                                                         
-            //            ])
-            //    .colorDomain([0,3])
-            //    .colorAccessor(function(d, i){return i%4;});
-            
-            sector_chart.width(320).height(300)
-                .dimension(cf.sector)
-                .group(sector)
-                .elasticX(true)
-                .data(function(group) {
-                    return group.top(6);
-                })
-                .colors(['#3182bd'])
-                .colorDomain([0,0])
-                .colorAccessor(function(d, i){return 1;});
-                
-            dc.dataCount("#count-info")
-		.dimension(cf)
-		.group(all);
-                            
-            d3.json("data/Phil_provinces.geojson", function (provincesJSON) {
-                
-                map_chart.width(660).height(800)
-                    .dimension(cf.pcode)
-                    .group(pcode)
-					.colors(d3.scale.quantile()
-									.domain([1,20])
-									.range(['#E5CF00','#DDA509','#D57C12','#CE521B','#C62924','#BF002D']))
-					.colorCalculator(function (d) { return d ? map_chart.colors()(d) : '#cccccc'; })
-                    .overlayGeoJson(provincesJSON.features, "Province", function (d) {
-                        return d.properties.P_Str;
-                    })
-                    .projection(d3.geo.mercator().center([121,17.5]).scale(8000))
-                    .title(function (d) {
-                        return "Province: " + pcode2prov[d.key] + " - " + d.value + ' clusters * municipalities';
-                    });
-                    
-                    d3.json("data/Phil_municipalities.geojson", function (municJSON){
-                        map2_chart.width(660).height(800)
-                            .dimension(cf.mcode)
-                            .group(mcode)
-							.colors(['#cccccc','#E5CF00','#DDA509','#D57C12','#CE521B','#C62924','#BF002D'])
-							.colorDomain([0,1,2,3,4,5,6])
-							.colorAccessor(function(d) { if (d>0) {return d;} else {return 0;};})
-                            .overlayGeoJson(municJSON.features, "Municipalities", function (d) {
-                                return d.properties.MUN_P_STR;
-                            })
-                            .projection(d3.geo.mercator().center([121,17.5]).scale(8000))
-                            .title(function (d) {
-                                return "Municipality: " + mcode2mun[d.key] + " - " + d.value + ' clusters';
-                            });
-					
-					$('#loading').hide();
-                    $('#dashboard').show();
-                    dc.renderAll();
-                            
-                    });                    
-                });            
-        });
-    </script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/site.js"></script> 
+    <!-- <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script> -->
   </body>
 </html>
