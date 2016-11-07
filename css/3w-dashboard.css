@@ -14,7 +14,7 @@
     fill-opacity: 1;
 }
 
-/* .dc-chart g.row text {fill: black;} */
+.dc-chart g.row text {fill: black;}
 
 /*
  * Page specific styles
