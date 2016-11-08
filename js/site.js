@@ -68,7 +68,7 @@
                 .group(sector_mun)
                 .elasticX(true)
                 .data(function(group) {
-                    return group.top(6).filter( function (d) { return d.value !== 0; } );
+                    return group.top(6);
                 })
                 .colors(['#BF002D'])
                 .colorDomain([0,0])

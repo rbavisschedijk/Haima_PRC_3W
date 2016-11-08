@@ -1,199 +1,199 @@
 ID,Organisation,Sector,Subsector,Service,Province_CODE,Municipality_CODE,Status,Beneficiary_type,Beneficiaries
-1,PRC,Assessment,Assessment,Assessment,128,12803,Finished,,1
-2,PRC,Assessment,Assessment,Assessment,128,12804,Finished,,1
-3,PRC,Assessment,Assessment,Assessment,128,12806,Finished,,1
-4,PRC,Assessment,Assessment,Assessment,128,12808,Finished,,1
-5,PRC,Assessment,Assessment,Assessment,128,12809,Finished,,1
-6,PRC,Assessment,Assessment,Assessment,128,12813,Finished,,1
-7,PRC,Assessment,Assessment,Assessment,128,12815,Finished,,1
-8,PRC,Assessment,Assessment,Assessment,128,12816,Finished,,1
-9,PRC,Assessment,Assessment,Assessment,128,12821,Finished,,1
-10,PRC,Assessment,Assessment,Assessment,128,12822,Finished,,1
-11,PRC,Assessment,Assessment,Assessment,215,21506,Finished,,1
-12,PRC,Assessment,Assessment,Assessment,215,21512,Finished,,1
-13,PRC,Assessment,Assessment,Assessment,215,21517,Finished,,1
-14,PRC,Assessment,Assessment,Assessment,215,21519,Finished,,1
-15,PRC,Assessment,Assessment,Assessment,215,21521,Finished,,1
-16,PRC,Assessment,Assessment,Assessment,215,21526,Finished,,1
-17,PRC,Assessment,Assessment,Assessment,215,21527,Finished,,1
-18,PRC,Assessment,Assessment,Assessment,215,21529,Finished,,1
-19,PRC,Assessment,Assessment,Assessment,231,23106,Finished,,1
-20,PRC,Assessment,Assessment,Assessment,231,23108,Finished,,1
-21,PRC,Assessment,Assessment,Assessment,231,23114,Finished,,1
-22,PRC,Assessment,Assessment,Assessment,231,23118,Finished,,1
-23,PRC,Assessment,Assessment,Assessment,231,23133,Finished,,1
-24,PRC,Assessment,Assessment,Assessment,231,23134,Finished,,1
-25,PRC,Assessment,Assessment,Assessment,231,23136,Finished,,1
-26,PRC,Assessment,Assessment,Assessment,231,23137,Finished,,1
-27,PRC,Assessment,Assessment,Assessment,250,25001,Finished,,1
-28,PRC,Assessment,Assessment,Assessment,250,25005,Finished,,1
-29,PRC,Assessment,Assessment,Assessment,250,25007,Finished,,1
-30,PRC,Assessment,Assessment,Assessment,250,25008,Finished,,1
-31,PRC,Assessment,Assessment,Assessment,349,34903,Finished,,1
-32,PRC,Assessment,Assessment,Assessment,349,34907,Finished,,1
-33,PRC,Assessment,Assessment,Assessment,377,37701,Finished,,1
-34,PRC,Assessment,Assessment,Assessment,377,37704,Finished,,1
-35,PRC,Assessment,Assessment,Assessment,377,37705,Finished,,1
-36,PRC,Assessment,Assessment,Assessment,1401,140101,Finished,,1
-37,PRC,Assessment,Assessment,Assessment,1401,140103,Finished,,1
-38,PRC,Assessment,Assessment,Assessment,1401,140107,Finished,,1
-39,PRC,Assessment,Assessment,Assessment,1401,140108,Finished,,1
-40,PRC,Assessment,Assessment,Assessment,1401,140110,Finished,,1
-41,PRC,Assessment,Assessment,Assessment,1401,140111,Finished,,1
-42,PRC,Assessment,Assessment,Assessment,1401,140116,Finished,,1
-43,PRC,Assessment,Assessment,Assessment,1401,140117,Finished,,1
-44,PRC,Assessment,Assessment,Assessment,1401,140119,Finished,,1
-45,PRC,Assessment,Assessment,Assessment,1401,140120,Finished,,1
-46,PRC,Assessment,Assessment,Assessment,1401,140121,Finished,,1
-47,PRC,Assessment,Assessment,Assessment,1401,140122,Finished,,1
-48,PRC,Assessment,Assessment,Assessment,1401,140124,Finished,,1
-49,PRC,Assessment,Assessment,Assessment,1401,140125,Finished,,1
-50,PRC,Assessment,Assessment,Assessment,1401,140127,Finished,,1
-51,PRC,Assessment,Assessment,Assessment,1427,142711,Finished,,1
-52,PRC,Assessment,Assessment,Assessment,1432,143211,Finished,,1
-53,PRC,Assessment,Assessment,Assessment,1432,143209,Finished,,1
-54,PRC,Assessment,Assessment,Assessment,1432,143213,Finished,,1
-55,PRC,Assessment,Assessment,Assessment,1444,144404,Finished,,1
-56,PRC,Assessment,Assessment,Assessment,1481,148102,Finished,,1
-57,PRC,Assessment,Assessment,Assessment,1481,148104,Finished,,1
-58,PRC,Assessment,Assessment,Assessment,1481,148106,Finished,,1
-59,PRC,Food,Food,Food (2-3 day) Ration,1401,140101,Planned,Families,450
-60,PRC,Livelihood,Food,Food (2-3 day) Ration,133,13302,Finished,Families,108
-61,PRC,Livelihood,Food,Food (2-3 day) Ration,215,21512,Finished,Families,178
-62,PRC,Livelihood,Food,Food (2-3 day) Ration,215,21519,Finished,Families,266
-63,PRC,Livelihood,Food,Food (2-3 day) Ration,215,21526,Finished,Families,162
-64,PRC,Livelihood,Food,Food (2-3 day) Ration,215,21529,Finished,Families,836
-65,PRC,Livelihood,Food,Food (2-3 day) Ration,314,31407,Finished,Families,191
-66,PRC,Health,Health,BP Taking,129,,Finished,Individuals,1
-67,PRC,Health,Health,BP Taking,215,21529,Finished,Individuals,100
-68,PRC,Health,Health,BP Taking,1444,,Finished,Individuals,15
-69,PRC,Health,PSS,Psychosocial Support,128,12802,Finished,Individuals,171
-70,PRC,Health,PSS,Psychosocial Support,128,12812,Finished,Individuals,58
-71,PRC,Health,PSS,Psychosocial Support,129,,Finished,Individuals,4
-72,PRC,Health,PSS,Psychosocial Support,215,21529,Finished,Individuals,4
-73,PRC,Health,PSS,Psychosocial Support,257,25701,Finished,Individuals,100
-74,PRC,Health,PSS,Psychosocial Support,257,25706,Finished,Individuals,100
-75,PRC,Health,PSS,Psychosocial Support,314,31407,Finished,Individuals,100
-76,PRC,Health,PSS,Psychosocial Support,377,37702,Finished,Individuals,97
-77,PRC,Health,PSS,Psychosocial Support,377,37706,Finished,Individuals,105
-78,PRC,Health,PSS,Psychosocial Support,1432,,Finished,Individuals,8
-79,PRC,Health,PSS,Psychosocial Support,1444,,Finished,Individuals,53
-80,PRC,Health,PSS,Welfare Desk,128,12812,Finished,Evacuation Center,4
-81,PRC,Health,PSS,Welfare Desk,133,,Finished,Evacuation Center,1
-82,PRC,Health,PSS,Welfare Desk,155,,Finished,Chapter ,1
-83,PRC,Health,PSS,Welfare Desk,215,,Finished,Evacuation Center,1
-84,PRC,Health,PSS,Welfare Desk,231,,Finished,Evacuation Center,1
-85,PRC,Health,PSS,Welfare Desk,257,25702,Finished,Chapter,1
-86,PRC,Health,PSS,Welfare Desk,308,,Finished,Evacuation Center,1
-87,PRC,Health,PSS,Welfare Desk,314,,Finished,Evacuation Center,1
-88,PRC,Health,PSS,Welfare Desk,349,,Finished,Evacuation Center,2
-89,PRC,Health,PSS,Welfare Desk,354,,Finished,Evacuation Center,1
-90,PRC,Health,PSS,Welfare Desk,369,,Finished,Evacuation Center,1
-91,PRC,Health,PSS,Welfare Desk,371,,Finished,Evacuation Center,1
-92,PRC,Health,PSS,Welfare Desk,377,,Finished,Evacuation Center,1
-93,PRC,Health,PSS,Welfare Desk,1427,,Finished,Evacuation Center,1
-94,PRC,Health,PSS,Welfare Desk,1432,,Finished,Evacuation Center,1
-95,PRC,Health,PSS,Welfare Desk,1444,,Finished,Evacuation Center,1
-96,PRC,Health,PSS,Welfare Desk,1481,,Finished,Evacuation Center,1
-97,PRC,Health,Search and Rescue,Rescue,129,,Finished,Individuals,3
-98,PRC,Health,Search and Rescue,Rescue,231,,Finished,Individuals,28
-99,PRC,Health,Search and Rescue,Rescue,1444,144404,Finished,Individuals,53
-100,PRC,Nutrition,Nutrition,Biscuits,377,37701,Finished,Individuals,442
-101,PRC,Nutrition,Nutrition,Biscuits,377,37702,Finished,Individuals,1424
-102,PRC,Nutrition,Nutrition,Biscuits,377,37706,Finished,Individuals,648
-103,PRC,Nutrition,Nutrition,Bottled Water,129,,Finished,Individuals,92
-104,PRC,Nutrition,Nutrition,Bread,128,12812,Finished,Individuals,389
-105,PRC,Nutrition,Nutrition,Hot Meals,129,,Finished,Individuals,92
-106,PRC,Nutrition,Nutrition,Hot Meals,133,,Finished,Individuals,149
-107,PRC,Nutrition,Nutrition,Hot Meals,155,15503,Finished,Individuals,334
-108,PRC,Nutrition,Nutrition,Hot Meals,215,21512,Finished,Individuals,300
-109,PRC,Nutrition,Nutrition,Hot Meals,215,21514,Finished,Individuals,49
-110,PRC,Nutrition,Nutrition,Hot Meals,215,21529,Finished,Individuals,100
-111,PRC,Nutrition,Nutrition,Hot Meals,231,,Finished,Individuals,1251
-112,PRC,Nutrition,Nutrition,Hot Meals,250,25005,Finished,Individuals,808
-113,PRC,Nutrition,Nutrition,Hot Meals,349,34903,Finished,Individuals,544
-114,PRC,Nutrition,Nutrition,Hot Meals,377,37701,Finished,Individuals,442
-115,PRC,Nutrition,Nutrition,Hot Meals,377,37706,Finished,Individuals,648
-116,PRC,Nutrition,Nutrition,Hot Meals,1401,,Finished,Individuals,62
-117,PRC,Nutrition,Nutrition,Hot Meals,1444,,Finished,Individuals,53
-118,PRC,Nutrition,Nutrition,Juice,128,12812,Finished,Individuals,389
-119,PRC,Shelter,Non-Food Item,Blanket,128,12802,Finished,Families,50
-120,PRC,Shelter,Non-Food Item,Blanket,1411,141106,For Completion ,Families,45
-121,PRC,Shelter,Non-Food Item,Blanket,1411,141108,For Completion ,Families,30
-122,PRC,Shelter,Non-Food Item,Blanket,1411,141110,For Completion ,Families,60
-123,PRC,Shelter,Non-Food Item,Blanket,1411,141113,For Completion ,Families,60
-124,PRC,Shelter,Non-Food Item,Blanket,1411,141114,For Completion ,Families,22
-125,PRC,Shelter,Non-Food Item,Blanket,1444,144404,For Completion ,Families,53
-126,PRC,Shelter,Non-Food Item,Mosquito Net,1432,143211,For Completion ,Families,139
-127,PRC,Shelter,Non-Food Item,Mosquito Net,1444,144404,For Completion ,Families,22
-128,PRC,Shelter,Non-Food Item,Plastic Mat,128,12802,Finished,Families,36
-129,PRC,Shelter,Non-Food Item,Plastic Mat,1411,141106,For Completion ,Families,45
-130,PRC,Shelter,Non-Food Item,Plastic Mat,1411,141108,For Completion ,Families,30
-131,PRC,Shelter,Non-Food Item,Plastic Mat,1411,141110,For Completion ,Families,60
-132,PRC,Shelter,Non-Food Item,Plastic Mat,1411,141113,For Completion ,Families,60
-133,PRC,Shelter,Non-Food Item,Plastic Mat,1411,141114,For Completion ,Families,22
-134,PRC,Shelter,Non-Food Item,Plastic Mat,1432,143211,For Completion ,Families,139
-135,PRC,Shelter,Non-Food Item,Plastic Mat,1444,144404,For Completion ,Families,20
-136,PRC,Shelter,Non-Food Item,Blanket,215,21506,Finished,Families,206
-137,PRC,Shelter,Non-Food Item,Blanket,215,21512,Finished,Families,126
-138,PRC,Shelter,Non-Food Item,Blanket,215,21519,Finished,Families,266
-139,PRC,Shelter,Non-Food Item,Blanket,215,21529,Finished,Families,386
-140,PRC,Shelter,Non-Food Item,Blanket,231,23133,Finished,Families,103
-141,PRC,Shelter,Non-Food Item,Blanket,231,23134,Finished,Families,310
-142,PRC,Shelter,Non-Food Item,Blanket,231,23136,Finished,Families,28
-143,PRC,Shelter,Non-Food Item,Mosquito Net,215,21506,Finished,Families,206
-144,PRC,Shelter,Non-Food Item,Mosquito Net,215,21512,Finished,Families,126
-145,PRC,Shelter,Non-Food Item,Mosquito Net,215,21519,Finished,Families,266
-146,PRC,Shelter,Non-Food Item,Mosquito Net,215,21529,Finished,Families,386
-147,PRC,Shelter,Non-Food Item,Mosquito Net,231,23133,Finished,Families,103
-148,PRC,Shelter,Non-Food Item,Mosquito Net,231,23134,Finished,Families,310
-149,PRC,Shelter,Non-Food Item,Mosquito Net,231,23136,Finished,Families,28
-150,PRC,Shelter,Non-Food Item,Plastic Mat,215,21506,Finished,Families,206
-151,PRC,Shelter,Non-Food Item,Plastic Mat,215,21512,Finished,Families,126
-152,PRC,Shelter,Non-Food Item,Plastic Mat,215,21519,Finished,Families,266
-153,PRC,Shelter,Non-Food Item,Plastic Mat,215,21529,Finished,Families,386
-154,PRC,Shelter,Non-Food Item,Plastic Mat,231,23133,Finished,Families,103
-155,PRC,Shelter,Non-Food Item,Plastic Mat,231,23134,Finished,Families,310
-156,PRC,Shelter,Non-Food Item,Plastic Mat,231,23136,Finished,Families,28
-157,PRC,Shelter,Non-Food Item,Tarpaulin,215,21506,Finished,Families,206
-158,PRC,Shelter,Non-Food Item,Tarpaulin,215,21512,Finished,Families,126
-159,PRC,Shelter,Non-Food Item,Tarpaulin,215,21519,Finished,Families,266
-160,PRC,Shelter,Non-Food Item,Tarpaulin,215,21529,Finished,Families,386
-161,PRC,Shelter,Non-Food Item,Tarpaulin,231,23133,Finished,Families,110
-162,PRC,Shelter,Non-Food Item,Tarpaulin,231,23134,Finished,Families,69
-163,PRC,Shelter,Non-Food Item,Tarpaulin,231,23136,Finished,Families,258
-164,PRC,Shelter,Non-Food Item,Tarpaulin,231,23136,For Verification,Families,69
-165,PRC,WASH,Hygiene Promotion,Hygiene Promotion,128,12812,Finished,Individuals,58
-166,PRC,WASH,Hygiene Promotion,Hygiene Promotion,215,21512,Finished,Individuals,300
-167,PRC,WASH,Hygiene Promotion,Hygiene Promotion,314,31407,Finished,Individuals,126
-168,PRC,WASH,Hygiene Promotion,Hygiene Promotion,377,37701,Finished,Individuals,292
-169,PRC,WASH,Hygiene Promotion,Hygiene Promotion,377,37706,Finished,Individuals,501
-170,PRC,WASH,Hygiene Promotion,Hygiene Promotion,1432,143209,Finished,Individuals,90
-171,PRC,WASH,Hygiene Promotion,Hygiene Promotion,1432,143213,Finished,Individuals,171
-172,PRC,WASH,Hygiene Promotion,Hygiene Promotion,1444,,Finished,Individuals,8
-173,PRC,WASH,Hygiene Promotion,Water Ration,231,23114,Finished,Liters,3000
-174,PRC,WASH,Non-Food Item,Hygiene Kit,215,21506,Finished,Families,206
-175,PRC,WASH,Non-Food Item,Hygiene Kit,215,21512,Finished,Families,126
-176,PRC,WASH,Non-Food Item,Hygiene Kit,215,21519,Finished,Families,266
-177,PRC,WASH,Non-Food Item,Hygiene Kit,215,21529,Finished,Families,386
-178,PRC,WASH,Non-Food Item,Hygiene Kit,231,23133,Finished,Families,103
-179,PRC,WASH,Non-Food Item,Hygiene Kit,231,23134,Finished,Families,310
-180,PRC,WASH,Non-Food Item,Hygiene Kit,231,23136,Finished,Families,28
-181,PRC,WASH,Non-Food Item,Hygiene Kit,1411,141106,Finished,Families,45
-182,PRC,WASH,Non-Food Item,Hygiene Kit,1411,141108,Finished,Families,30
-183,PRC,WASH,Non-Food Item,Hygiene Kit,1411,141110,Finished,Families,60
-184,PRC,WASH,Non-Food Item,Hygiene Kit,1411,141113,Finished,Families,60
-185,PRC,WASH,Non-Food Item,Hygiene Kit,1411,141114,Finished,Families,22
-186,PRC,WASH,Non-Food Item,Hygiene Kit,1432,143211,Finished,Families,139
-187,PRC,WASH,Non-Food Item,Hygiene Kit,1432,143213,Finished,Families,61
-188,PRC,WASH,Non-Food Item,Hygiene Kit,1432,143215,Finished,Families,21
-189,PRC,WASH,Non-Food Item,Jerry Can (20L),215,21506,Finished,Families,206
-190,PRC,WASH,Non-Food Item,Jerry Can (20L),215,21512,Finished,Families,126
-191,PRC,WASH,Non-Food Item,Jerry Can (20L),215,21519,Finished,Families,266
-192,PRC,WASH,Non-Food Item,Jerry Can (20L),215,21529,Finished,Families,386
-193,PRC,WASH,Non-Food Item,Jerry Can (20L),231,23133,Finished,Families,103
-194,PRC,WASH,Non-Food Item,Jerry Can (20L),231,23134,Finished,Families,310
-195,PRC,WASH,Non-Food Item,Jerry Can (20L),231,23136,Finished,Families,28
-196,PRC,WASH,Non-Food Item,Jerry Can (20L),1444,,Finished,Families,2
-197,PRC,WASH,Sanitation,Debris Clearing,215,21529,Ongoing,tons,1070
-198,PRC,WASH,Water,Water Ration,231,23114,Finished,Liters,20000
+1,Philippine Red Cross,Assessment,Assessment,Assessment,128,12803,Finished,,1
+2,Philippine Red Cross,Assessment,Assessment,Assessment,128,12804,Finished,,1
+3,Philippine Red Cross,Assessment,Assessment,Assessment,128,12806,Finished,,1
+4,Philippine Red Cross,Assessment,Assessment,Assessment,128,12808,Finished,,1
+5,Philippine Red Cross,Assessment,Assessment,Assessment,128,12809,Finished,,1
+6,Philippine Red Cross,Assessment,Assessment,Assessment,128,12813,Finished,,1
+7,Philippine Red Cross,Assessment,Assessment,Assessment,128,12815,Finished,,1
+8,Philippine Red Cross,Assessment,Assessment,Assessment,128,12816,Finished,,1
+9,Philippine Red Cross,Assessment,Assessment,Assessment,128,12821,Finished,,1
+10,Philippine Red Cross,Assessment,Assessment,Assessment,128,12822,Finished,,1
+11,Philippine Red Cross,Assessment,Assessment,Assessment,215,21506,Finished,,1
+12,Philippine Red Cross,Assessment,Assessment,Assessment,215,21512,Finished,,1
+13,Philippine Red Cross,Assessment,Assessment,Assessment,215,21517,Finished,,1
+14,Philippine Red Cross,Assessment,Assessment,Assessment,215,21519,Finished,,1
+15,Philippine Red Cross,Assessment,Assessment,Assessment,215,21521,Finished,,1
+16,Philippine Red Cross,Assessment,Assessment,Assessment,215,21526,Finished,,1
+17,Philippine Red Cross,Assessment,Assessment,Assessment,215,21527,Finished,,1
+18,Philippine Red Cross,Assessment,Assessment,Assessment,215,21529,Finished,,1
+19,Philippine Red Cross,Assessment,Assessment,Assessment,231,23106,Finished,,1
+20,Philippine Red Cross,Assessment,Assessment,Assessment,231,23108,Finished,,1
+21,Philippine Red Cross,Assessment,Assessment,Assessment,231,23114,Finished,,1
+22,Philippine Red Cross,Assessment,Assessment,Assessment,231,23118,Finished,,1
+23,Philippine Red Cross,Assessment,Assessment,Assessment,231,23133,Finished,,1
+24,Philippine Red Cross,Assessment,Assessment,Assessment,231,23134,Finished,,1
+25,Philippine Red Cross,Assessment,Assessment,Assessment,231,23136,Finished,,1
+26,Philippine Red Cross,Assessment,Assessment,Assessment,231,23137,Finished,,1
+27,Philippine Red Cross,Assessment,Assessment,Assessment,250,25001,Finished,,1
+28,Philippine Red Cross,Assessment,Assessment,Assessment,250,25005,Finished,,1
+29,Philippine Red Cross,Assessment,Assessment,Assessment,250,25007,Finished,,1
+30,Philippine Red Cross,Assessment,Assessment,Assessment,250,25008,Finished,,1
+31,Philippine Red Cross,Assessment,Assessment,Assessment,349,34903,Finished,,1
+32,Philippine Red Cross,Assessment,Assessment,Assessment,349,34907,Finished,,1
+33,Philippine Red Cross,Assessment,Assessment,Assessment,377,37701,Finished,,1
+34,Philippine Red Cross,Assessment,Assessment,Assessment,377,37704,Finished,,1
+35,Philippine Red Cross,Assessment,Assessment,Assessment,377,37705,Finished,,1
+36,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140101,Finished,,1
+37,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140103,Finished,,1
+38,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140107,Finished,,1
+39,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140108,Finished,,1
+40,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140110,Finished,,1
+41,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140111,Finished,,1
+42,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140116,Finished,,1
+43,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140117,Finished,,1
+44,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140119,Finished,,1
+45,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140120,Finished,,1
+46,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140121,Finished,,1
+47,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140122,Finished,,1
+48,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140124,Finished,,1
+49,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140125,Finished,,1
+50,Philippine Red Cross,Assessment,Assessment,Assessment,1401,140127,Finished,,1
+51,Philippine Red Cross,Assessment,Assessment,Assessment,1427,142711,Finished,,1
+52,Philippine Red Cross,Assessment,Assessment,Assessment,1432,143211,Finished,,1
+53,Philippine Red Cross,Assessment,Assessment,Assessment,1432,143209,Finished,,1
+54,Philippine Red Cross,Assessment,Assessment,Assessment,1432,143213,Finished,,1
+55,Philippine Red Cross,Assessment,Assessment,Assessment,1444,144404,Finished,,1
+56,Philippine Red Cross,Assessment,Assessment,Assessment,1481,148102,Finished,,1
+57,Philippine Red Cross,Assessment,Assessment,Assessment,1481,148104,Finished,,1
+58,Philippine Red Cross,Assessment,Assessment,Assessment,1481,148106,Finished,,1
+59,Philippine Red Cross,Health,Health,BP Taking,129,,Finished,Individuals,1
+60,Philippine Red Cross,Health,Health,BP Taking,215,21529,Finished,Individuals,100
+61,Philippine Red Cross,Health,Health,BP Taking,1444,,Finished,Individuals,15
+62,Philippine Red Cross,Health,PSS,Psychosocial Support,128,12802,Finished,Individuals,171
+63,Philippine Red Cross,Health,PSS,Psychosocial Support,128,12812,Finished,Individuals,58
+64,Philippine Red Cross,Health,PSS,Psychosocial Support,129,,Finished,Individuals,4
+65,Philippine Red Cross,Health,PSS,Psychosocial Support,215,21529,Finished,Individuals,4
+66,Philippine Red Cross,Health,PSS,Psychosocial Support,257,25701,Finished,Individuals,100
+67,Philippine Red Cross,Health,PSS,Psychosocial Support,257,25706,Finished,Individuals,100
+68,Philippine Red Cross,Health,PSS,Psychosocial Support,314,31407,Finished,Individuals,100
+69,Philippine Red Cross,Health,PSS,Psychosocial Support,377,37702,Finished,Individuals,97
+70,Philippine Red Cross,Health,PSS,Psychosocial Support,377,37706,Finished,Individuals,105
+71,Philippine Red Cross,Health,PSS,Psychosocial Support,1432,,Finished,Individuals,8
+72,Philippine Red Cross,Health,PSS,Psychosocial Support,1444,,Finished,Individuals,53
+73,Philippine Red Cross,Health,PSS,Welfare Desk,128,12812,Finished,Evacuation Center,4
+74,Philippine Red Cross,Health,PSS,Welfare Desk,133,,Finished,Evacuation Center,1
+75,Philippine Red Cross,Health,PSS,Welfare Desk,155,,Finished,Chapter ,1
+76,Philippine Red Cross,Health,PSS,Welfare Desk,215,,Finished,Evacuation Center,1
+77,Philippine Red Cross,Health,PSS,Welfare Desk,231,,Finished,Evacuation Center,1
+78,Philippine Red Cross,Health,PSS,Welfare Desk,257,25702,Finished,Chapter,1
+79,Philippine Red Cross,Health,PSS,Welfare Desk,308,,Finished,Evacuation Center,1
+80,Philippine Red Cross,Health,PSS,Welfare Desk,314,,Finished,Evacuation Center,1
+81,Philippine Red Cross,Health,PSS,Welfare Desk,349,,Finished,Evacuation Center,2
+82,Philippine Red Cross,Health,PSS,Welfare Desk,354,,Finished,Evacuation Center,1
+83,Philippine Red Cross,Health,PSS,Welfare Desk,369,,Finished,Evacuation Center,1
+84,Philippine Red Cross,Health,PSS,Welfare Desk,371,,Finished,Evacuation Center,1
+85,Philippine Red Cross,Health,PSS,Welfare Desk,377,,Finished,Evacuation Center,1
+86,Philippine Red Cross,Health,PSS,Welfare Desk,1427,,Finished,Evacuation Center,1
+87,Philippine Red Cross,Health,PSS,Welfare Desk,1432,,Finished,Evacuation Center,1
+88,Philippine Red Cross,Health,PSS,Welfare Desk,1444,,Finished,Evacuation Center,1
+89,Philippine Red Cross,Health,PSS,Welfare Desk,1481,,Finished,Evacuation Center,1
+90,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,215,21506,Finished,Families,206
+91,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,215,21512,Finished,Families,126
+92,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,215,21519,Finished,Families,266
+93,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,215,21529,Finished,Families,386
+94,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,231,23133,Finished,Families,110
+95,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,231,23134,Finished,Families,69
+96,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,231,23136,Finished,Families,258
+97,Philippine Red Cross,Shelter,Non-Food Item,Tarpaulin,231,23136,For Verification,Families,69
+98,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,128,12812,Finished,Individuals,58
+99,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,215,21512,Finished,Individuals,300
+100,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,314,31407,Finished,Individuals,126
+101,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,377,37701,Finished,Individuals,292
+102,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,377,37706,Finished,Individuals,501
+103,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,1432,143209,Finished,Individuals,90
+104,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,1432,143213,Finished,Individuals,171
+105,Philippine Red Cross,WASH,Hygiene Promotion,Hygiene Promotion,1444,,Finished,Individuals,8
+106,Philippine Red Cross,WASH,Hygiene Promotion,Water Ration,231,23114,Finished,Liters,3000
+107,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,215,21506,Finished,Families,206
+108,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,215,21512,Finished,Families,126
+109,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,215,21519,Finished,Families,266
+110,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,215,21529,Finished,Families,386
+111,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,231,23133,Finished,Families,103
+112,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,231,23134,Finished,Families,310
+113,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,231,23136,Finished,Families,28
+114,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1411,141106,Finished,Families,45
+115,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1411,141108,Finished,Families,30
+116,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1411,141110,Finished,Families,60
+117,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1411,141113,Finished,Families,60
+118,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1411,141114,Finished,Families,22
+119,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1432,143211,Finished,Families,139
+120,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1432,143213,Finished,Families,61
+121,Philippine Red Cross,WASH,Non-Food Item,Hygiene Kit,1432,143215,Finished,Families,21
+122,Philippine Red Cross,WASH,Sanitation,Debris Clearing,215,21529,Ongoing,tons,1070
+123,Philippine Red Cross,WASH,Water,Water Ration,231,23114,Finished,Liters,20000
+124,Philippine Red Cross,Relief,Non-Food Item,Blanket,128,12802,Finished,Families,50
+125,Philippine Red Cross,Relief,Non-Food Item,Blanket,215,21506,Finished,Families,206
+126,Philippine Red Cross,Relief,Non-Food Item,Blanket,215,21512,Finished,Families,126
+127,Philippine Red Cross,Relief,Non-Food Item,Blanket,215,21519,Finished,Families,266
+128,Philippine Red Cross,Relief,Non-Food Item,Blanket,215,21529,Finished,Families,386
+129,Philippine Red Cross,Relief,Non-Food Item,Blanket,231,23133,Finished,Families,103
+130,Philippine Red Cross,Relief,Non-Food Item,Blanket,231,23134,Finished,Families,310
+131,Philippine Red Cross,Relief,Non-Food Item,Blanket,231,23136,Finished,Families,28
+132,Philippine Red Cross,Relief,Non-Food Item,Blanket,1411,141106,For Completion ,Families,45
+133,Philippine Red Cross,Relief,Non-Food Item,Blanket,1411,141108,For Completion ,Families,30
+134,Philippine Red Cross,Relief,Non-Food Item,Blanket,1411,141110,For Completion ,Families,60
+135,Philippine Red Cross,Relief,Non-Food Item,Blanket,1411,141113,For Completion ,Families,60
+136,Philippine Red Cross,Relief,Non-Food Item,Blanket,1411,141114,For Completion ,Families,22
+137,Philippine Red Cross,Relief,Non-Food Item,Blanket,1444,144404,For Completion ,Families,53
+138,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),215,21506,Finished,Families,206
+139,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),215,21512,Finished,Families,126
+140,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),215,21519,Finished,Families,266
+141,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),215,21529,Finished,Families,386
+142,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),231,23133,Finished,Families,103
+143,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),231,23134,Finished,Families,310
+144,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),231,23136,Finished,Families,28
+145,Philippine Red Cross,Relief,Non-Food Item,Jerry Can (20L),1444,,Finished,Families,2
+146,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,215,21506,Finished,Families,206
+147,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,215,21512,Finished,Families,126
+148,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,215,21519,Finished,Families,266
+149,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,215,21529,Finished,Families,386
+150,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,231,23133,Finished,Families,103
+151,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,231,23134,Finished,Families,310
+152,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,231,23136,Finished,Families,28
+153,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,1432,143211,For Completion ,Families,139
+154,Philippine Red Cross,Relief,Non-Food Item,Mosquito Net,1444,144404,For Completion ,Families,22
+155,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,128,12802,Finished,Families,36
+156,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,215,21506,Finished,Families,206
+157,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,215,21512,Finished,Families,126
+158,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,215,21519,Finished,Families,266
+159,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,215,21529,Finished,Families,386
+160,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,231,23133,Finished,Families,103
+161,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,231,23134,Finished,Families,310
+162,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,231,23136,Finished,Families,28
+163,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1411,141106,For Completion ,Families,45
+164,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1411,141108,For Completion ,Families,30
+165,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1411,141110,For Completion ,Families,60
+166,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1411,141113,For Completion ,Families,60
+167,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1411,141114,For Completion ,Families,22
+168,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1432,143211,For Completion ,Families,139
+169,Philippine Red Cross,Relief,Non-Food Item,Plastic Mat,1444,144404,For Completion ,Families,20
+170,Philippine Red Cross,Relief,Food Item,Biscuits,377,37701,Finished,Individuals,442
+171,Philippine Red Cross,Relief,Food Item,Biscuits,377,37702,Finished,Individuals,1424
+172,Philippine Red Cross,Relief,Food Item,Biscuits,377,37706,Finished,Individuals,648
+173,Philippine Red Cross,Relief,Food Item,Bottled Water,129,,Finished,Individuals,92
+174,Philippine Red Cross,Relief,Food Item,Bread,128,12812,Finished,Individuals,389
+175,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,133,13302,Finished,Families,108
+176,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,215,21512,Finished,Families,178
+177,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,215,21519,Finished,Families,266
+178,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,215,21526,Finished,Families,162
+179,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,215,21529,Finished,Families,836
+180,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,314,31407,Finished,Families,191
+181,Philippine Red Cross,Relief,Food Item,Food (2-3 day) Ration,1401,140101,Planned,Families,450
+182,Philippine Red Cross,Relief,Food Item,Hot Meals,129,,Finished,Individuals,92
+183,Philippine Red Cross,Relief,Food Item,Hot Meals,133,,Finished,Individuals,149
+184,Philippine Red Cross,Relief,Food Item,Hot Meals,155,15503,Finished,Individuals,334
+185,Philippine Red Cross,Relief,Food Item,Hot Meals,215,21512,Finished,Individuals,300
+186,Philippine Red Cross,Relief,Food Item,Hot Meals,215,21514,Finished,Individuals,49
+187,Philippine Red Cross,Relief,Food Item,Hot Meals,215,21529,Finished,Individuals,100
+188,Philippine Red Cross,Relief,Food Item,Hot Meals,231,,Finished,Individuals,1251
+189,Philippine Red Cross,Relief,Food Item,Hot Meals,250,25005,Finished,Individuals,808
+190,Philippine Red Cross,Relief,Food Item,Hot Meals,349,34903,Finished,Individuals,544
+191,Philippine Red Cross,Relief,Food Item,Hot Meals,377,37701,Finished,Individuals,442
+192,Philippine Red Cross,Relief,Food Item,Hot Meals,377,37706,Finished,Individuals,648
+193,Philippine Red Cross,Relief,Food Item,Hot Meals,1401,,Finished,Individuals,62
+194,Philippine Red Cross,Relief,Food Item,Hot Meals,1444,,Finished,Individuals,53
+195,Philippine Red Cross,Relief,Food Item,Juice,128,12812,Finished,Individuals,389
+196,Philippine Red Cross,Rescue,Search and Rescue,Rescue,129,,Finished,Individuals,3
+197,Philippine Red Cross,Rescue,Search and Rescue,Rescue,231,,Finished,Individuals,28
+198,Philippine Red Cross,Rescue,Search and Rescue,Rescue,1444,144404,Finished,Individuals,53
