@@ -54,7 +54,7 @@
 			// }; 
 			 
             var sector_mun = cf.sector.group();
-            var service = cf.service.group();
+            var service = cf.service.group();//.reduceSum(function(d) {return d.Beneficiaries;});
             var pcode = cf.pcode.group();
             var organisation = cf.organisation.group();
             var all = cf.groupAll();
@@ -85,6 +85,7 @@
                 .colors(['#BF002D'])
                 .colorDomain([0,0])
                 .colorAccessor(function(d, i){return 1;})  
+				//.xAxis().ticks(5)
 				;
 			
 			// Table of earthquake data
