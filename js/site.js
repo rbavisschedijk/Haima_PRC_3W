@@ -16,13 +16,14 @@
 		$('#services').hide();
 		
 		var map_chart = dc.geoChoroplethChart("#map");
-        var sector_chart_mun = dc.rowChart("#sectors_mun");
-		var service_chart = dc.rowChart("#services");
         var map2_chart = dc.geoChoroplethChart("#map2");
+        var sector_chart = dc.rowChart("#sectors");
+		var service_chart = dc.rowChart("#services");
 		var dataTable = dc.dataTable("#dc-table-graph");
         
         d3.dsv(';')("data/3W_Data.csv", function(csv_data){
-            var cf = crossfilter(csv_data);
+            
+			var cf = crossfilter(csv_data);
             
 			cf.id = cf.dimension(function(d) {return d.ID; });
             cf.sector = cf.dimension(function(d) { return d.Sector; });
@@ -31,16 +32,16 @@
             cf.organisation = cf.dimension(function(d) { return d.Organisation; });
             cf.mcode = cf.dimension(function(d) { return d.Municipality_CODE; });
 			 
-            var sector_mun = cf.sector.group();
+            var sector = cf.sector.group();
             var service = cf.service.group().reduceSum(function(d) {return d.Beneficiaries;});
             var pcode = cf.pcode.group();
             var organisation = cf.organisation.group();
             var mcode = cf.mcode.group();
             var all = cf.groupAll();
 			
-			sector_chart_mun.width(320).height(300)
+			sector_chart.width(320).height(300)
                 .dimension(cf.sector)
-                .group(sector_mun)
+                .group(sector)
                 .elasticX(true)
                 .data(function(group) {
                     return group.top(6);
