@@ -269,10 +269,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 268;;Relief;Non-Food Item;Plastic Mat;231;23133;Minangan Norte;Finished;30;Families
 269;;WASH;Non-Food Item;Jerry Can (20L);231;23133;Minangan Norte;Finished;30;Families
 270;;WASH;Non-Food Item;Hygiene Kit;231;23133;Minangan Norte;Finished;30;Families
-271;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Lipcan Ubbog;Planned;180;Families
-272;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Sta. Rosa;Planned;200;Families
-273;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Cosili West;Planned;20;Families
-274;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Patucannay;Planned;50;Families
 275;;Shelter;Non-Food Item;Tarpaulin;231;23136;San Roque;Finished;39;Families
 276;;Shelter;Non-Food Item;Tarpaulin;231;23136;San Rafael Alto;Finished;39;Families
 277;;Shelter;Non-Food Item;Tarpaulin;231;23136;Biga Occidental;Finished;51;Families
@@ -327,12 +323,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 326;IFRC;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Calabigan;Finished;54;Families
 327;IFRC;WASH;Non-Food Item;Hygiene Kit;1481;148105;Calabigan;Finished;54;Families
 328;IFRC;Shelter;Non-Food Item;Tarpaulin;1481;148105;Calabigan;Finished;54;Families
-329;;Relief;Non-Food Item;Blanket;1481;148105;Turod;Planned;77;Families
-330;;Relief;Non-Food Item;Mosquito Net;1481;148105;Turod;Planned;77;Families
-331;;Relief;Non-Food Item;Plastic Mat;1481;148105;Turod;Planned;77;Families
-332;;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Turod;Planned;77;Families
-333;;WASH;Non-Food Item;Hygiene Kit;1481;148105;Turod;Planned;77;Families
-334;;Shelter;Non-Food Item;Tarpaulin;1481;148105;Turod;Planned;77;Families
 335;IFRC;Relief;Non-Food Item;Blanket;215;21502;Pusian;Finished;140;Families
 336;IFRC;Relief;Non-Food Item;Mosquito Net;215;21502;Pusian;Finished;140;Families
 337;IFRC;Relief;Non-Food Item;Plastic Mat;215;21502;Pusian;Finished;140;Families
@@ -345,12 +335,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 344;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21502;Igani;Finished;205;Families
 345;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21502;Igani;Finished;205;Families
 346;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21502;Igani;Finished;205;Families
-347;IFRC;Relief;Non-Food Item;Blanket;215;21512;Bato;Planned;216;Families
-348;IFRC;Relief;Non-Food Item;Mosquito Net;215;21512;Bato;Planned;216;Families
-349;IFRC;Relief;Non-Food Item;Plastic Mat;215;21512;Bato;Planned;216;Families
-350;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;Bato;Planned;216;Families
-351;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21512;Bato;Planned;216;Families
-352;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;Bato;Planned;216;Families
 353;IFRC;Relief;Non-Food Item;Blanket;215;21512;San Antonio;Finished;180;Families
 354;IFRC;Relief;Non-Food Item;Mosquito Net;215;21512;San Antonio;Finished;180;Families
 355;IFRC;Relief;Non-Food Item;Plastic Mat;215;21512;San Antonio;Finished;180;Families
@@ -399,18 +383,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 398;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Cabaruan;Finished;24;Families
 399;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Cabaruan;Finished;24;Families
 400;IFRC;Shelter;Non-Food Item;Tarpaulin;1432;143213;Cabaruan;Finished;24;Families
-401;;Relief;Non-Food Item;Blanket;1432;143213;Laya West;Planned;30;Families
-402;;Relief;Non-Food Item;Mosquito Net;1432;143213;Laya West;Planned;30;Families
-403;;Relief;Non-Food Item;Plastic Mat;1432;143213;Laya West;Planned;30;Families
-404;;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Laya West;Planned;30;Families
-405;;WASH;Non-Food Item;Hygiene Kit;1432;143213;Laya West;Planned;30;Families
-406;;Shelter;Non-Food Item;Tarpaulin;1432;143213;Laya West;Planned;30;Families
-407;;Relief;Non-Food Item;Blanket;1432;143213;Magsaysay;Planned;29;Families
-408;;Relief;Non-Food Item;Mosquito Net;1432;143213;Magsaysay;Planned;29;Families
-409;;Relief;Non-Food Item;Plastic Mat;1432;143213;Magsaysay;Planned;29;Families
-410;;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Magsaysay;Planned;29;Families
-411;;WASH;Non-Food Item;Hygiene Kit;1432;143213;Magsaysay;Planned;29;Families
-412;;Shelter;Non-Food Item;Tarpaulin;1432;143213;Magsaysay;Planned;29;Families
 413;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Bacneng;Finished;18;Families
 414;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baliling;Finished;8;Families
 415;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Balete;Finished;1;Families
@@ -419,12 +391,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 418;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baracbac;Finished;11;Families
 419;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Poblacion;Finished;3;Families
 420;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Villaflores;Finished;8;Families
-421;;Relief;Non-Food Item;Blanket;1432;143213;Laya East ;Planned;15;Families
-422;;Relief;Non-Food Item;Mosquito Net;1432;143213;Laya East ;Planned;15;Families
-423;;Relief;Non-Food Item;Plastic Mat;1432;143213;Laya East ;Planned;15;Families
-424;;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Laya East ;Planned;15;Families
-425;;WASH;Non-Food Item;Hygiene Kit;1432;143213;Laya East ;Planned;15;Families
-426;;Shelter;Non-Food Item;Tarpaulin;1432;143213;Laya East ;Planned;15;Families
 427;;Relief;Non-Food Item;Blanket;231;23133;San Vicente;Finished;42;Families
 428;;Relief;Non-Food Item;Mosquito Net;231;23133;San Vicente;Finished;42;Families
 429;;Relief;Non-Food Item;Plastic Mat;231;23133;San Vicente;Finished;42;Families
@@ -441,7 +407,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 440;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinaoan malasin;Finished;16;Families
 441;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Malapagay;Finished;15;Families
 442;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Bubug;Finished;16;Families
-443;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;129;12907;Puro;Planned;387;Families
 444;IFRC;Assessment;Assessment;Detailed Assessment;215;21512;;Finished;1;Municipality
 445;IFRC;Assessment;Assessment;Detailed Assessment;215;21527;;Finished;1;Municipality
 446;IFRC;Assessment;Assessment;Detailed Assessment;215;21519;;Finished;1;Municipality
