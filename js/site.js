@@ -19,6 +19,7 @@
         var map2_chart = dc.geoChoroplethChart("#map2");
         var sector_chart = dc.rowChart("#sectors");
 		var service_chart = dc.rowChart("#services");
+		var organisation_chart = dc.rowChart("#organisations");
 		var dataTable = dc.dataTable("#dc-table-graph");
         
         d3.dsv(';')("data/3W_Data.csv", function(csv_data){
@@ -68,7 +69,20 @@
 				.xAxis().ticks(5)
 				;
 			
-			// Table of earthquake data
+			organisation_chart.width(320).height(300)
+                .dimension(cf.organisation)
+                .group(organisation)
+                .elasticX(true)
+                .data(function(group) {
+                    return group.top(10).filter( function (d) { return d.value !== 0; } );
+                })
+                .colors(['#BF002D'])
+                .colorDomain([0,0])
+                .colorAccessor(function(d, i){return 1;})
+				.xAxis().ticks(5)
+				;
+			
+			// Table of activities data
 			  dataTable.width(960).height(800)
 				.dimension(cf.mcode)
 				.group(function(d) { return ""; })

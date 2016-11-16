@@ -1,420 +1,456 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;IFRC;Assessment;Assessment;Assessment;1401;140101;;Finished;1;Municipality
-2;IFRC;Assessment;Assessment;Assessment;1401;140124;;Finished;1;Municipality
-3;IFRC;Assessment;Assessment;Assessment;1401;140110;;Finished;1;Municipality
-4;IFRC;Assessment;Assessment;Assessment;1401;140107;;Finished;1;Municipality
-5;IFRC;Assessment;Assessment;Assessment;1401;140122;;Finished;1;Municipality
-6;IFRC;Assessment;Assessment;Assessment;1401;140108;;Finished;1;Municipality
-7;IFRC;Assessment;Assessment;Assessment;1401;140111;;Finished;1;Municipality
-8;IFRC;Assessment;Assessment;Assessment;1401;140119;;Finished;1;Municipality
-9;IFRC;Assessment;Assessment;Assessment;1401;140127;;Finished;1;Municipality
-10;IFRC;Assessment;Assessment;Assessment;1401;140125;;Finished;1;Municipality
-11;IFRC;Assessment;Assessment;Assessment;1401;140120;;Finished;1;Municipality
-12;IFRC;Assessment;Assessment;Assessment;1401;140116;;Finished;1;Municipality
-13;IFRC;Assessment;Assessment;Assessment;1401;140103;;Finished;1;Municipality
-14;IFRC;Assessment;Assessment;Assessment;1401;140117;;Finished;1;Municipality
-15;IFRC;Assessment;Assessment;Assessment;1401;140121;;Finished;1;Municipality
-16;IFRC;Assessment;Assessment;Assessment;1481;148102;;Finished;1;Municipality
-17;IFRC;Assessment;Assessment;Assessment;1481;148104;;Finished;1;Municipality
-18;IFRC;Assessment;Assessment;Assessment;1481;148106;;Finished;1;Municipality
-19;IFRC;Assessment;Assessment;Assessment;377;37705;;Finished;1;Municipality
-20;IFRC;Assessment;Assessment;Assessment;377;37701;;Finished;1;Municipality
-21;IFRC;Assessment;Assessment;Assessment;377;37704;;Finished;1;Municipality
-22;IFRC;Assessment;Assessment;Assessment;215;21526;;Finished;1;Municipality
-23;IFRC;Assessment;Assessment;Assessment;215;21521;;Finished;1;Municipality
-24;IFRC;Assessment;Assessment;Assessment;215;21506;;Finished;1;Municipality
-25;IFRC;Assessment;Assessment;Assessment;215;21517;;Finished;1;Municipality
-26;IFRC;Assessment;Assessment;Assessment;215;21529;;Finished;1;Municipality
-27;IFRC;Assessment;Assessment;Assessment;215;21519;;Finished;1;Municipality
-28;IFRC;Assessment;Assessment;Assessment;215;21527;;Finished;1;Municipality
-29;IFRC;Assessment;Assessment;Assessment;215;21512;;Finished;1;Municipality
-30;IFRC;Assessment;Assessment;Assessment;1427;142711;;Finished;1;Municipality
-31;;Assessment;Assessment;Assessment;128;12806;;Finished;1;Municipality
-32;;Assessment;Assessment;Assessment;128;12804;;Finished;1;Municipality
-33;;Assessment;Assessment;Assessment;128;12815;;Finished;1;Municipality
-34;;Assessment;Assessment;Assessment;128;12816;;Finished;1;Municipality
-35;;Assessment;Assessment;Assessment;128;12808;;Finished;1;Municipality
-36;;Assessment;Assessment;Assessment;128;12813;;Finished;1;Municipality
-37;;Assessment;Assessment;Assessment;128;12822;;Finished;1;Municipality
-38;;Assessment;Assessment;Assessment;128;12809;;Finished;1;Municipality
-39;;Assessment;Assessment;Assessment;128;12821;;Finished;1;Municipality
-40;;Assessment;Assessment;Assessment;128;12803;;Finished;1;Municipality
-41;IFRC;Assessment;Assessment;Assessment;231;23108;;Finished;1;Municipality
-42;IFRC;Assessment;Assessment;Assessment;231;23134;;Finished;1;Municipality
-43;IFRC;Assessment;Assessment;Assessment;231;23106;;Finished;1;Municipality
-44;IFRC;Assessment;Assessment;Assessment;231;23114;;Finished;1;Municipality
-45;IFRC;Assessment;Assessment;Assessment;231;23133;;Finished;1;Municipality
-46;IFRC;Assessment;Assessment;Assessment;231;23118;;Finished;1;Municipality
-47;IFRC;Assessment;Assessment;Assessment;231;23136;;Finished;1;Municipality
-48;IFRC;Assessment;Assessment;Assessment;231;23137;;Finished;1;Municipality
-49;IFRC;Assessment;Assessment;Assessment;1432;143213;;Finished;1;Municipality
-50;IFRC;Assessment;Assessment;Assessment;1432;143211;;Finished;1;Municipality
-51;IFRC;Assessment;Assessment;Assessment;1432;143209;;Finished;1;Municipality
-52;IFRC;Assessment;Assessment;Assessment;1444;144404;;Finished;1;Municipality
-53;IFRC;Assessment;Assessment;Assessment;349;34907;;Finished;1;Municipality
-54;IFRC;Assessment;Assessment;Assessment;349;34903;;Finished;1;Municipality
-55;IFRC;Assessment;Assessment;Assessment;250;25005;;Finished;1;Municipality
-56;IFRC;Assessment;Assessment;Assessment;250;25007;;Finished;1;Municipality
-57;IFRC;Assessment;Assessment;Assessment;250;25008;;Finished;1;Municipality
-58;IFRC;Assessment;Assessment;Assessment;250;25001;;Finished;1;Municipality
-59;PRC;Rescue;Search and Rescue;Rescue;1444;144404;;Finished;53;Individuals
-60;PRC;Rescue;Search and Rescue;Rescue;231;;;Finished;28;Individuals
-61;PRC;Rescue;Search and Rescue;Rescue;129;;;Finished;3;Individuals
-62;Team8kam;Relief;Food Items;Food (2-3 day) Ration;215;21529;Pallua Sur;Finished;450;Families
-63;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;215;21512;Marracuru;Finished;178;Families
-64;PRC;Health;PSS;Psychosocial Support;215;21529;;Finished;4;Individuals
-65;PRC;Health;PSS;Psychosocial Support;257;25706;Dissimungal;Finished;100;Individuals
-66;PRC;Health;PSS;Psychosocial Support;128;12802;Casilian;Finished;171;Individuals
-67;PRC;Health;PSS;Psychosocial Support;128;12812;Caaoacan;Finished;58;Individuals
-68;PRC;Health;PSS;Psychosocial Support;377;37702;Esperanza;Finished;34;Individuals
-69;PRC;Health;PSS;Psychosocial Support;377;37702;Culat;Finished;63;Individuals
-70;PRC;Health;PSS;Psychosocial Support;377;37706;South Poblacion;Finished;48;Individuals
-71;PRC;Health;PSS;Psychosocial Support;377;37706;North Poblacion;Finished;42;Individuals
-72;PRC;Health;PSS;Psychosocial Support;377;37706;North Poblacion;Finished;15;Individuals
-73;PRC;Health;PSS;Psychosocial Support;129;;;Finished;4;Individuals
-74;PRC;Health;PSS;Psychosocial Support;1444;NA;;Finished;53;Individuals
-75;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;;Finished;126;Individuals
-76;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Bulusan;Finished;3;Families
-77;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Poblacion;Finished;31;Families
-78;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Sapang Bayan;Finished;86;Families
-79;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;San Miguel;Finished;20;Families
-80;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Gatbuca;Finished;51;Families
-81;PRC;Health;PSS;Psychosocial Support;314;31407;Poblacion;Finished;70;Individuals
-82;PRC;Health;PSS;Psychosocial Support;314;31407;Gatbuca;Finished;30;Individuals
-83;PRC;Health;PSS;Welfare Desk;215;21514;;Finished;1;Evacuation Center
-84;PRC;Health;PSS;Psychosocial Support;257;25701;San Leonardo;Finished;100;Individuals
-85;PRC;Health;PSS;Welfare Desk;257;25702;San Marcos;Finished;1;Chapter
-86;PRC;Health;PSS;Welfare Desk;1432;143213;Bulanao Norte;Finished;1;Chapter
-87;PRC;Relief;Hot Meals;Hot Meals;231;;;Finished;1251;Individuals
-88;PRC;Health;PSS;Welfare Desk;231;23114;Osmena;Finished;1;Chapter
-89;PRC;Health;PSS;Welfare Desk;377;37701;Buhangin;Finished;1;Chapter
-90;PRC;Health;PSS;Welfare Desk;1481;148105;Poblacion;Finished;1;Evacuation Center
-91;PRC;Health;PSS;Welfare Desk;133;13314;Barangay 2;Finished;1;Chapter
-92;PRC;Health;PSS;Welfare Desk;371;37105;Palanginan;Finished;1;Chapter
-93;PRC;Health;PSS;Welfare Desk;354;35416;Sto. Nino;Finished;1;Chapter
-94;PRC;Health;PSS;Welfare Desk;314;31410;Guinhawa;Finished;1;Chapter
-95;PRC;Health;PSS;Welfare Desk;369;36916;San Vicente;Finished;1;Chapter
-96;PRC;Health;PSS;Welfare Desk;1444;144404;;Finished;1;Evacuation Center
-97;PRC;Health;PSS;Welfare Desk;308;30803;San Jose;Finished;1;Chapter
-98;PRC;Health;PSS;Welfare Desk;1427;142704;;Finished;1;Chapter
-99;PRC;Health;PSS;Welfare Desk;349;34903;;Finished;2;Evacuation Center
-100;PRC;Health;PSS;Welfare Desk;128;12812;Caaoacan;Finished;1;Evacuation Center
-101;PRC;Health;Health;BP Taking;129;;;Finished;1;Individuals
-102;PRC;Relief;Hot Meals;Hot Meals;1444;NA;;Finished;53;Individuals
-103;PRC;Health;Health;BP Taking;1444;NA;;Finished;15;Individuals
-104;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 23;Finished;1;Chapter
-105;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 29, Santo Tomas;Finished;1;Evacuation Center
-106;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 1, San Lorenzo;Finished;1;Evacuation Center
-107;PRC;WASH;Hygiene Promotion;Hygiene Promotion;128;12812;Caaoacan;Finished;58;Individuals
-108;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37701;Zabali;Finished;241;Individuals
-109;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1444;NA;;Finished;8;Individuals
-110;PRC;Relief;Non-Food Item;Blanket;128;12802;Casilian;Finished;50;Families
-111;PRC;Relief;Non-Food Item;Plastic Mat;128;12802;Casilian;Finished;36;Families
-112;PRC;Relief;Non-Food Item;Blanket;1444;144404;;For Completion;53;Families
-113;PRC;Relief;Non-Food Item;Plastic Mat;1444;144404;;For Completion;20;Families
-114;PRC;WASH;Non-Food Item;Jerry Can (20L);1444;NA;;Finished;2;Families
-115;PRC;Relief;Non-Food Item;Mosquito Net;1444;144404;;For Completion;22;Families
-116;PRC;Relief;Non-Food Item;Blanket;1411;141110;;For Completion;60;Families
-117;PRC;Relief;Non-Food Item;Plastic Mat;1411;141110;;For Completion;60;Families
-118;PRC;Relief;Non-Food Item;Blanket;1411;141113;;For Completion;60;Families
-119;PRC;Relief;Non-Food Item;Plastic Mat;1411;141113;;For Completion;60;Families
-120;PRC;Relief;Non-Food Item;Blanket;1411;141106;;For Completion;45;Families
-121;PRC;Relief;Non-Food Item;Plastic Mat;1411;141106;;For Completion;45;Families
-122;PRC;Relief;Non-Food Item;Blanket;1411;141108;;For Completion;30;Families
-123;PRC;Relief;Non-Food Item;Plastic Mat;1411;141108;;For Completion;30;Families
-124;PRC;Relief;Non-Food Item;Blanket;1411;141114;;For Completion;22;Families
-125;PRC;Relief;Non-Food Item;Plastic Mat;1411;141114;;For Completion;22;Families
-126;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141110;;Finished;60;Families
-127;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141113;;Finished;60;Families
-128;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141106;;Finished;45;Families
-129;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141108;;Finished;30;Families
-130;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141114;;Finished;22;Families
-131;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;143213;;Finished;171;Individuals
-132;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143215;Tuglao;Finished;21;Families
-133;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Lanna;Finished;28;Families
-134;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37701;Reserva;Finished;51;Individuals
-135;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37706;;Finished;501;Individuals
-136;PRC;Relief;Hot Meals;Biscuits;377;37706;South Poblacion;Finished;545;Individuals
-137;PRC;Relief;Hot Meals;Biscuits;377;37706;North Poblacion;Finished;103;Individuals
-138;PRC;Relief;Hot Meals;Biscuits;377;37701;Reserva;Finished;200;Individuals
-139;PRC;Relief;Hot Meals;Biscuits;377;37701;Zabali;Finished;242;Individuals
-140;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;;Finished;33;Families
-141;PRC;Relief;Hot Meals;Biscuits;377;37702;;Finished;1424;Individuals
-142;PRC;Relief;Hot Meals;Hot Meals;377;37706;South Poblacion;Finished;545;Individuals
-143;PRC;Relief;Hot Meals;Hot Meals;377;37706;North Poblacion;Finished;103;Individuals
-144;PRC;Relief;Hot Meals;Hot Meals;377;37701;Reserva;Finished;200;Individuals
-145;PRC;Relief;Hot Meals;Hot Meals;377;37701;Zabali;Finished;242;Individuals
-146;PRC;Relief;Hot Meals;Hot Meals;215;21514;Paradise;Finished;49;Individuals
-147;PRC;Relief;Hot Meals;Hot Meals;215;21529;;Finished;100;Individuals
-148;PRC;Relief;Hot Meals;Hot Meals;129;;;Finished;92;Individuals
-149;PRC;Relief;Hot Meals;Bottled Water;129;;;Finished;92;Individuals
-150;PRC;Relief;Hot Meals;Hot Meals;155;15503;;Finished;334;Individuals
-151;PRC;Relief;Hot Meals;Hot Meals;349;34903;Sangitan Este;Finished;249;Individuals
-152;PRC;Relief;Hot Meals;Hot Meals;349;34903;Bonifacio;Finished;295;Individuals
-153;PRC;Relief;Hot Meals;Hot Meals;250;25005;Salvacion;Finished;808;Individuals
-154;PRC;Relief;Hot Meals;Juice;128;12812;Caaoacan;Finished;109;Individuals
-155;PRC;Relief;Hot Meals;Juice;128;12812;;Finished;28;Individuals
-156;PRC;Relief;Hot Meals;Juice;128;12812;Barangay No. 29, Santo Tomas;Finished;115;Individuals
-157;PRC;Relief;Hot Meals;Juice;128;12812;Barangay No. 1, San Lorenzo;Finished;137;Individuals
-158;PRC;Relief;Hot Meals;Bread;128;12812;Caaoacan;Finished;109;Individuals
-159;PRC;Relief;Hot Meals;Bread;128;12812;;Finished;28;Individuals
-160;PRC;Relief;Hot Meals;Bread;128;12812;Barangay No. 29, Santo Tomas;Finished;115;Individuals
-161;PRC;Relief;Hot Meals;Bread;128;12812;Barangay No. 1, San Lorenzo;Finished;137;Individuals
-162;PRC;Relief;Non-Food Item;Blanket;215;21519;Patagueleg;Finished;171;Families
-163;PRC;Relief;Non-Food Item;Mosquito Net;215;21519;Patagueleg;Finished;171;Families
-164;PRC;Relief;Non-Food Item;Plastic Mat;215;21519;Patagueleg;Finished;171;Families
-165;PRC;Relief;Non-Food Item;Blanket;215;21529;Centro 11;Finished;296;Families
-166;PRC;Relief;Non-Food Item;Mosquito Net;215;21529;Centro 11;Finished;296;Families
-167;PRC;Relief;Non-Food Item;Plastic Mat;215;21529;Centro 11;Finished;296;Families
-168;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21519;Patagueleg;Finished;171;Families
-169;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21529;Centro 11;Finished;296;Families
-170;NZAID;WASH;Non-Food Item;Jerry Can (20L);215;21519;Patagueleg;Finished;171;Families
-171;NZAID;WASH;Non-Food Item;Jerry Can (20L);215;21529;Centro 11;Finished;296;Families
-172;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21519;Patagueleg;Finished;171;Families
-173;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21529;Centro 11;Finished;296;Families
-174;GRC;WASH;Water;Water Ration;231;23114;Batong Labang;Finished;16000;Liters
-175;PRC;Relief;Non-Food Item;Blanket;231;23134;Quigabian;Finished;60;Families
-176;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Quigabian;Finished;60;Families
-177;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Quigabian;Finished;60;Families
-178;;WASH;Non-Food Item;Jerry Can (20L);231;23134;Quigabian;Finished;60;Families
-179;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Quigabian;Finished;60;Families
-180;PRC;Relief;Non-Food Item;Blanket;215;21519;Parabba;Finished;95;Families
-181;PRC;Relief;Non-Food Item;Mosquito Net;215;21519;Parabba;Finished;95;Families
-182;PRC;Relief;Non-Food Item;Plastic Mat;215;21519;Parabba;Finished;95;Families
-183;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21519;Parabba;Finished;95;Families
-184;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21519;Parabba;Finished;95;Families
-185;NZAID;WASH;Non-Food Item;Hygiene Kit;215;21519;Parabba;Finished;95;Families
-186;PRC;Relief;Non-Food Item;Blanket;215;21529;Centro 9;Finished;90;Families
-187;PRC;Relief;Non-Food Item;Mosquito Net;215;21529;Centro 9;Finished;90;Families
-188;PRC;Relief;Non-Food Item;Plastic Mat;215;21529;Centro 9;Finished;90;Families
-189;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21529;Centro 9;Finished;90;Families
-190;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21529;Centro 9;Finished;90;Families
-191;NZAID ;WASH;Non-Food Item;Hygiene Kit;215;21529;Centro 9;Finished;90;Families
-192;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Tanza;Finished;30;Tons
-193;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;Roma Norte;Finished;126;Families
-194;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;Roma Norte;Finished;126;Families
-195;NZAID;WASH;Non-Food Item;Hygiene Kit;215;21512;Roma Norte;Finished;126;Families
-196;PRC;Relief;Non-Food Item;Blanket;215;21512;Roma Norte;Finished;126;Families
-197;PRC;Relief;Non-Food Item;Mosquito Net;215;21512;Roma Norte;Finished;126;Families
-198;PRC;Relief;Non-Food Item;Plastic Mat;215;21512;Roma Norte;Finished;126;Families
-199;;Relief;Hot Meals;Hot Meals;215;21512;Roma Norte;Finished;300;Individuals
-200;;WASH;Hygiene Promotion;Hygiene Promotion;215;21512;Roma Norte;Finished;300;Individuals
-201;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Norte;Finished;20;Families
-202;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Sur;Finished;35;Families
-203;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;San Vicente;Finished;31;Families
-204;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Bagutari;Finished;40;Families
-205;;WASH;Non-Food Item;Jerry Can (20L);231;23134;Buenavista;Finished;35;Families
-206;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Buenavista;Finished;35;Families
-207;PRC;Relief;Non-Food Item;Blanket;231;23134;Buenavista;Finished;35;Families
-208;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Buenavista;Finished;35;Families
-209;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Buenavista;Finished;35;Families
-210;;WASH;Non-Food Item;Hygiene Kit;1432;143211;San Quintin;Finished;78;Families
-211;;WASH;Non-Food Item;Hygiene Kit;1432;143211;San Vicente;Finished;61;Families
-212;;Relief;Non-Food Item;Plastic Mat;1432;143211;San Quintin;For Completion;78;Families
-213;;Relief;Non-Food Item;Mosquito Net;1432;143211;San Quintin;For Completion;78;Families
-214;;Relief;Non-Food Item;Plastic Mat;1432;143211;San Vicente;For Completion;61;Families
-215;;Relief;Non-Food Item;Mosquito Net;1432;143211;San Vicente;For Completion;61;Families
-216;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;215;21526;Virginia;Finished;162;Families
-217;;WASH;Hygiene Promotion;Hygiene Promotion;1432;143209;;Finished;90;Individuals
-218;;Health;PSS;Welfare Desk;155;15518;;Finished;1;Chapter
-219;;Health;PSS;Psychosocial Support;1432;NA;;Finished;8;Individuals
-220;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Samara;Finished;20;Families
-221;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sta. Lucia;Finished;10;Families
-222;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;San Benito Sur;Finished;18;Families
-223;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sto. Rosario West;Finished;6;Families
-224;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Alaska;Finished;12;Families
-225;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sto. Rosario West;Finished;5;Families
-226;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sta. Lucia;Finished;2;Families
-227;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;San Benito Sur;Finished;3;Families
-228;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Alaska;Finished;32;Families
-229;;Relief;Hot Meals;Hot Meals;133;;;Finished;149;Individuals
-230;;Health;Health;BP Taking;215;21529;;Finished;100;Individuals
-231;;Relief;Hot Meals;Hot Meals;1401;NA;;Finished;62;Individuals
-232;GRC;WASH;Water;Water Ration;231;23114;San Antonio;Finished;8000;Liters
-233;;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Rafael East ;Finished;20;Families
-234;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;San Rafael East ;Finished;20;Families
-235;PRC;Relief;Non-Food Item;Blanket;231;23134;San Rafael East ;Finished;20;Families
-236;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;San Rafael East ;Finished;20;Families
-237;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;San Rafael;Finished;20;Families
-238;;WASH;Non-Food Item;Jerry Can (20L);231;23134;Poblacion 3;Finished;61;Families
-239;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Poblacion 3;Finished;61;Families
-240;PRC;Relief;Non-Food Item;Blanket;231;23134;Poblacion 3;Finished;61;Families
-241;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Poblacion 3;Finished;61;Families
-242;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Poblacion 3;Finished;61;Families
-243;;WASH;Non-Food Item;Hygiene Kit;215;21506;Mocag;Finished;128;Families
-244;;Relief;Non-Food Item;Blanket;215;21506;Mocag;Finished;128;Families
-245;;Relief;Non-Food Item;Mosquito Net;215;21506;Mocag;Finished;128;Families
-246;;Relief;Non-Food Item;Plastic Mat;215;21506;Mocag;Finished;128;Families
-247;;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mocag;Finished;128;Families
-248;;Shelter;Non-Food Item;Tarpaulin;215;21506;Mocag;Finished;128;Families
-249;;WASH;Non-Food Item;Hygiene Kit;215;21506;Mabini;Finished;78;Families
-250;;Relief;Non-Food Item;Blanket;215;21506;Mabini;Finished;78;Families
-251;;Relief;Non-Food Item;Mosquito Net;215;21506;Mabini;Finished;78;Families
-252;;Relief;Non-Food Item;Plastic Mat;215;21506;Mabini;Finished;78;Families
-253;;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mabini;Finished;78;Families
-254;;Shelter;Non-Food Item;Tarpaulin;215;21506;Mabini;Finished;78;Families
-255;;Shelter;Non-Food Item;Tarpaulin;231;23134;Bangad;Finished;69;Families
-256;;Relief;Non-Food Item;Blanket;231;23133;San Jose;Finished;54;Families
-257;;Relief;Non-Food Item;Mosquito Net;231;23133;San Jose;Finished;54;Families
-258;;Relief;Non-Food Item;Plastic Mat;231;23133;San Jose;Finished;54;Families
-259;;WASH;Non-Food Item;Jerry Can (20L);231;23133;San Jose;Finished;54;Families
-260;;WASH;Non-Food Item;Hygiene Kit;231;23133;San Jose;Finished;54;Families
-261;;Relief;Non-Food Item;Blanket;231;23133;Bungad;Finished;19;Families
-262;;Relief;Non-Food Item;Mosquito Net;231;23133;Bungad;Finished;19;Families
-263;;Relief;Non-Food Item;Plastic Mat;231;23133;Bungad;Finished;19;Families
-264;;WASH;Non-Food Item;Jerry Can (20L);231;23133;Bungad;Finished;19;Families
-265;;WASH;Non-Food Item;Hygiene Kit;231;23133;Bungad;Finished;19;Families
-266;;Relief;Non-Food Item;Blanket;231;23133;Minangan Norte;Finished;30;Families
-267;;Relief;Non-Food Item;Mosquito Net;231;23133;Minangan Norte;Finished;30;Families
-268;;Relief;Non-Food Item;Plastic Mat;231;23133;Minangan Norte;Finished;30;Families
-269;;WASH;Non-Food Item;Jerry Can (20L);231;23133;Minangan Norte;Finished;30;Families
-270;;WASH;Non-Food Item;Hygiene Kit;231;23133;Minangan Norte;Finished;30;Families
-275;;Shelter;Non-Food Item;Tarpaulin;231;23136;San Roque;Finished;39;Families
-276;;Shelter;Non-Food Item;Tarpaulin;231;23136;San Rafael Alto;Finished;39;Families
-277;;Shelter;Non-Food Item;Tarpaulin;231;23136;Biga Occidental;Finished;51;Families
-278;;Shelter;Non-Food Item;Tarpaulin;231;23136;Biga Oriental;Finished;34;Families
-279;;Relief;Non-Food Item;Blanket;231;23136;Antagan;Finished;28;Families
-280;;Relief;Non-Food Item;Mosquito Net;231;23136;Antagan;Finished;28;Families
-281;;Relief;Non-Food Item;Plastic Mat;231;23136;Antaga;Finished;28;Families
-282;;WASH;Non-Food Item;Jerry Can (20L);231;23136;Antagan;Finished;28;Families
-283;;WASH;Non-Food Item;Hygiene Kit;231;23136;Antagan;Finished;28;Families
-284;;Shelter;Non-Food Item;Tarpaulin;231;23133;Minanga Sur;Finished;47;Families
-285;;Shelter;Non-Food Item;Tarpaulin;231;23133;Calamagui;Finished;17;Families
-286;;Shelter;Non-Food Item;Tarpaulin;231;23133;Ballacayu;Finished;49;Families
-287;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21519;Patagueleg;For Validation;171;Families
-288;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21529;Centro 11;For Validation;296;Families
-289;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21519;Parabba;For Validation;95;Families
-290;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21529;Centro 9;For Validation;90;Families
-291;;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Isidro West;Finished;32;Families
-292;;WASH;Non-Food Item;Hygiene Kit;231;23134;San Isidro West;Finished;32;Families
-293;;Relief;Non-Food Item;Blanket;231;23134;San Isidro West;Finished;32;Families
-294;;Relief;Non-Food Item;Mosquito Net;231;23134;San Isidro West;Finished;32;Families
-295;;Relief;Non-Food Item;Plastic Mat;231;23134;San Isidro West;Finished;32;Families
-296;;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Isidro East;Finished;29;Families
-297;;WASH;Non-Food Item;Hygiene Kit;231;23134;San Isidro East;Finished;29;Families
-298;;Relief;Non-Food Item;Blanket;231;23134;San Isidro East;Finished;29;Families
-299;;Relief;Non-Food Item;Mosquito Net;231;23134;San Isidro East;Finished;29;Families
-300;;Relief;Non-Food Item;Plastic Mat;231;23134;San Isidro East;Finished;29;Families
-301;;WASH;Non-Food Item;Jerry Can (20L);231;23134;Poblacion 1;Finished;24;Families
-302;;WASH;Non-Food Item;Hygiene Kit;231;23134;Poblacion 1;Finished;24;Families
-303;;Relief;Non-Food Item;Blanket;231;23134;Poblacion 1;Finished;24;Families
-304;;Relief;Non-Food Item;Mosquito Net;231;23134;Poblacion 1;Finished;24;Families
-305;;Relief;Non-Food Item;Plastic Mat;231;23134;Poblacion 1;Finished;24;Families
-306;;WASH;Non-Food Item;Jerry Can (20L);231;23134;Calamagui North;Finished;49;Families
-307;;WASH;Non-Food Item;Hygiene Kit;231;23134;Calamagui North;Finished;49;Families
-308;;Relief;Non-Food Item;Blanket;231;23134;Calamagui North;Finished;49;Families
-309;;Relief;Non-Food Item;Mosquito Net;231;23134;Calamagui North;Finished;49;Families
-310;;Relief;Non-Food Item;Plastic Mat;231;23134;Calamagui North;Finished;49;Families
-311;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Ugac Sur;Finished;100;Tons
-312;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Arellano, Centro 5;Finished;130;Tons
-313;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Likaro, Centro 5;Finished;300;Tons
-314;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Catagaman Nuevo;Finished;240;Tons
-315;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Caritan;Finished;120;Tons
-316;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Leonarda;Finished;150;Tons
-317;IFRC;Relief;Non-Food Item;Blanket;1481;148105;Calayucay ;Finished;72;Families
-318;IFRC;Relief;Non-Food Item;Mosquito Net;1481;148105;Calayucay ;Finished;72;Families
-319;IFRC;Relief;Non-Food Item;Plastic Mat;1481;148105;Calayucay ;Finished;72;Families
-320;IFRC;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Calayucay ;Finished;72;Families
-321;IFRC;WASH;Non-Food Item;Hygiene Kit;1481;148105;Calayucay ;Finished;72;Families
-322;IFRC;Shelter;Non-Food Item;Tarpaulin;1481;148105;Calayucay ;Finished;72;Families
-323;IFRC;Relief;Non-Food Item;Blanket;1481;148105;Calabigan;Finished;54;Families
-324;IFRC;Relief;Non-Food Item;Mosquito Net;1481;148105;Calabigan;Finished;54;Families
-325;IFRC;Relief;Non-Food Item;Plastic Mat;1481;148105;Calabigan;Finished;54;Families
-326;IFRC;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Calabigan;Finished;54;Families
-327;IFRC;WASH;Non-Food Item;Hygiene Kit;1481;148105;Calabigan;Finished;54;Families
-328;IFRC;Shelter;Non-Food Item;Tarpaulin;1481;148105;Calabigan;Finished;54;Families
-335;IFRC;Relief;Non-Food Item;Blanket;215;21502;Pusian;Finished;140;Families
-336;IFRC;Relief;Non-Food Item;Mosquito Net;215;21502;Pusian;Finished;140;Families
-337;IFRC;Relief;Non-Food Item;Plastic Mat;215;21502;Pusian;Finished;140;Families
-338;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21502;Pusian;Finished;140;Families
-339;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21502;Pusian;Finished;140;Families
-340;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21502;Pusian;Finished;140;Families
-341;IFRC;Relief;Non-Food Item;Blanket;215;21502;Igani;Finished;205;Families
-342;IFRC;Relief;Non-Food Item;Mosquito Net;215;21502;Igani;Finished;205;Families
-343;IFRC;Relief;Non-Food Item;Plastic Mat;215;21502;Igani;Finished;205;Families
-344;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21502;Igani;Finished;205;Families
-345;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21502;Igani;Finished;205;Families
-346;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21502;Igani;Finished;205;Families
-353;IFRC;Relief;Non-Food Item;Blanket;215;21512;San Antonio;Finished;180;Families
-354;IFRC;Relief;Non-Food Item;Mosquito Net;215;21512;San Antonio;Finished;180;Families
-355;IFRC;Relief;Non-Food Item;Plastic Mat;215;21512;San Antonio;Finished;180;Families
-356;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;San Antonio;Finished;180;Families
-357;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21512;San Antonio;Finished;180;Families
-358;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;San Antonio;Finished;180;Families
-359;IFRC;Relief;Non-Food Item;Blanket;231;23134;Divisoria;Finished;53;Families
-360;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;Divisoria;Finished;53;Families
-361;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;Divisoria;Finished;53;Families
-362;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;Divisoria;For Validation;53;Families
-363;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;Divisoria;Finished;53;Families
-364;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;Divisoria;Finished;53;Families
-365;IFRC;Relief;Non-Food Item;Blanket;231;23134;Naganakan;Finished;85;Families
-366;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;Naganakan;Finished;85;Families
-367;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;Naganakan;Finished;85;Families
-368;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;Naganakan;For Validation;85;Families
-369;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;Naganakan;Finished;85;Families
-370;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;Naganakan;Finished;85;Families
-371;IFRC;Relief;Non-Food Item;Blanket;231;23134;San Antonio;Finished;51;Families
-372;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;San Antonio;Finished;51;Families
-373;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;San Antonio;Finished;51;Families
-374;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Antonio;For Validation;51;Families
-375;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;San Antonio;Finished;51;Families
-376;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;San Antonio;Finished;51;Families
-377;IFRC;Relief;Non-Food Item;Blanket;231;23136;Calinauan Centro;Finished;22;Families
-378;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Calinauan Centro;Finished;22;Families
-379;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Calinauan Centro;Finished;22;Families
-380;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinauan Centro;For Validation;22;Families
-381;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Calinauan Centro;Finished;22;Families
-382;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Calinauan Centro;Finished;22;Families
-383;IFRC;Relief;Non-Food Item;Blanket;231;23136;Calinauan Norte;Finished;9;Families
-384;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Calinauan Norte;Finished;9;Families
-385;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Calinauan Norte;Finished;9;Families
-386;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinauan Norte;For Validation;9;Families
-387;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Calinauan Norte;Finished;9;Families
-388;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Calinauan Norte;Finished;9;Families
-389;IFRC;Relief;Non-Food Item;Blanket;231;23136;Canogan Alto;Finished;37;Families
-390;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Canogan Alto;Finished;37;Families
-391;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Canogan Alto;Finished;37;Families
-392;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Canogan Alto;For Validation;37;Families
-393;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Canogan Alto;Finished;37;Families
-394;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Alto;Finished;37;Families
-395;IFRC;Relief;Non-Food Item;Blanket;1432;143213;Cabaruan;Finished;24;Families
-396;IFRC;Relief;Non-Food Item;Mosquito Net;1432;143213;Cabaruan;Finished;24;Families
-397;IFRC;Relief;Non-Food Item;Plastic Mat;1432;143213;Cabaruan;Finished;24;Families
-398;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Cabaruan;Finished;24;Families
-399;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Cabaruan;Finished;24;Families
-400;IFRC;Shelter;Non-Food Item;Tarpaulin;1432;143213;Cabaruan;Finished;24;Families
-413;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Bacneng;Finished;18;Families
-414;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baliling;Finished;8;Families
-415;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Balete;Finished;1;Families
-416;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Bantinan;Finished;7;Families
-417;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Buyasyas;Finished;3;Families
-418;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baracbac;Finished;11;Families
-419;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Poblacion;Finished;3;Families
-420;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Villaflores;Finished;8;Families
-427;;Relief;Non-Food Item;Blanket;231;23133;San Vicente;Finished;42;Families
-428;;Relief;Non-Food Item;Mosquito Net;231;23133;San Vicente;Finished;42;Families
-429;;Relief;Non-Food Item;Plastic Mat;231;23133;San Vicente;Finished;42;Families
-430;;Shelter;Non-Food Item;Tarpaulin;231;23133;San Vicente;Finished;42;Families
-431;;Relief;Non-Food Item;Blanket;231;23136;Bubug;Finished;16;Families
-432;;Relief;Non-Food Item;Mosquito Net;231;23136;Bubug;Finished;16;Families
-433;;Relief;Non-Food Item;Plastic Mat;231;23136;Bubug;Finished;16;Families
-434;;Relief;Non-Food Item;Blanket;231;23136;Calinaoan Malasin;Finished;16;Families
-435;;Relief;Non-Food Item;Mosquito Net;231;23136;Calinaoan Malasin;Finished;16;Families
-436;;Relief;Non-Food Item;Plastic Mat;231;23136;Calinaoan Malasin;Finished;16;Families
-437;;Relief;Non-Food Item;Blanket;231;23136;Malapagay;Finished;15;Families
-438;;Relief;Non-Food Item;Mosquito Net;231;23136;Malapagay;Finished;15;Families
-439;;Relief;Non-Food Item;Plastic Mat;231;23136;Malapagay;Finished;15;Families
-440;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinaoan malasin;Finished;16;Families
-441;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Malapagay;Finished;15;Families
-442;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Bubug;Finished;16;Families
-444;IFRC;Assessment;Assessment;Detailed Assessment;215;21512;;Finished;1;Municipality
-445;IFRC;Assessment;Assessment;Detailed Assessment;215;21527;;Finished;1;Municipality
-446;IFRC;Assessment;Assessment;Detailed Assessment;215;21519;;Finished;1;Municipality
-447;IFRC;Assessment;Assessment;Detailed Assessment;231;23134;;Finished;1;Municipality
-448;IFRC;Assessment;Assessment;Detailed Assessment;231;23133;;Finished;1;Municipality
-449;SRC;Assessment;Assessment;Detailed Assessment;1432;143213;;Finished;1;Municipality
-450;SRC;Assessment;Assessment;Detailed Assessment;1432;143211;;Finished;1;Municipality
-451;SRC;Assessment;Assessment;Detailed Assessment;1432;143209;;Finished;1;Municipality
-452;GRC;Assessment;Assessment;Detailed Assessment;1481;148107;;Finished;1;Municipality
-453;GRC;Assessment;Assessment;Detailed Assessment;1481;148106;;Finished;1;Municipality
-454;GRC;Assessment;Assessment;Detailed Assessment;1481;148102;;Finished;1;Municipality
+1;PRC;Health;PSS;Psychosocial Support;257;25701;San Leonardo;Finished;100;Individuals
+2;IFRC;Relief;Non-Food Item;Blanket;215;21502;Pusian;Finished;140;Families
+3;IFRC;Relief;Non-Food Item;Mosquito Net;215;21502;Pusian;Finished;140;Families
+4;IFRC;Relief;Non-Food Item;Plastic Mat;215;21502;Pusian;Finished;140;Families
+5;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21502;Pusian;Finished;140;Families
+6;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21502;Pusian;Finished;140;Families
+7;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21502;Pusian;Finished;140;Families
+8;IFRC;Relief;Non-Food Item;Blanket;215;21502;Igani;Finished;205;Families
+9;IFRC;Relief;Non-Food Item;Mosquito Net;215;21502;Igani;Finished;205;Families
+10;IFRC;Relief;Non-Food Item;Plastic Mat;215;21502;Igani;Finished;205;Families
+11;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21502;Igani;Finished;205;Families
+12;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21502;Igani;Finished;205;Families
+13;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21502;Igani;Finished;205;Families
+14;IFRC;Assessment;Assessment;Assessment;250;25001;;Finished;1;Municipality
+15;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Samara;Finished;20;Families
+16;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sta. Lucia;Finished;10;Families
+17;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;San Benito Sur;Finished;18;Families
+18;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sto. Rosario West;Finished;6;Families
+19;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Alaska;Finished;12;Families
+20;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sto. Rosario West;Finished;5;Families
+21;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Sta. Lucia;Finished;2;Families
+22;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;San Benito Sur;Finished;3;Families
+23;PRC;Relief;Food Items;Food (2-3 day) Ration;133;13302;Alaska;Finished;32;Families
+24;IFRC;Assessment;Assessment;Assessment;1427;142711;;Finished;1;Municipality
+25;PRC;Health;PSS;Psychosocial Support;128;12802;Casilian;Finished;171;Individuals
+26;PRC;Relief;Non-Food Item;Blanket;128;12802;Casilian;Finished;50;Families
+27;PRC;Relief;Non-Food Item;Plastic Mat;128;12802;Casilian;Finished;36;Families
+28;Unknown;Assessment;Assessment;Assessment;128;12803;;Finished;1;Municipality
+29;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Careb;Finished;14;Families
+30;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Sta. Cruz;Finished;5;Families
+31;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Paniki;Finished;10;Families
+32;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Villacoloma;Finished;8;Families
+33;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Villaros;Finished;9;Families
+34;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Quirino;Finished;4;Families
+35;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Lantap;Finished;5;Families
+36;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Tuao North;Finished;8;Families
+37;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Tuao South;Finished;5;Families
+38;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25003;Murong;Finished;7;Families
+39;IFRC;Assessment;Assessment;Assessment;215;21506;;Finished;1;Municipality
+40;Unknown;WASH;Non-Food Item;Hygiene Kit;215;21506;Mocag;Finished;128;Families
+41;Unknown;Relief;Non-Food Item;Blanket;215;21506;Mocag;Finished;128;Families
+42;Unknown;Relief;Non-Food Item;Mosquito Net;215;21506;Mocag;Finished;128;Families
+43;Unknown;Relief;Non-Food Item;Plastic Mat;215;21506;Mocag;Finished;128;Families
+44;Unknown;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mocag;Finished;128;Families
+45;Unknown;Shelter;Non-Food Item;Tarpaulin;215;21506;Mocag;Finished;128;Families
+46;Unknown;WASH;Non-Food Item;Hygiene Kit;215;21506;Mabini;Finished;78;Families
+47;Unknown;Relief;Non-Food Item;Blanket;215;21506;Mabini;Finished;78;Families
+48;Unknown;Relief;Non-Food Item;Mosquito Net;215;21506;Mabini;Finished;78;Families
+49;Unknown;Relief;Non-Food Item;Plastic Mat;215;21506;Mabini;Finished;78;Families
+50;Unknown;WASH;Non-Food Item;Jerry Can (20L);215;21506;Mabini;Finished;78;Families
+51;Unknown;Shelter;Non-Food Item;Tarpaulin;215;21506;Mabini;Finished;78;Families
+52;PRC;Health;PSS;Welfare Desk;308;30803;San Jose;Finished;1;Chapter
+53;IFRC;Assessment;Assessment;Assessment;377;37701;;Finished;1;Municipality
+54;PRC;Health;PSS;Welfare Desk;377;37701;Buhangin;Finished;1;Chapter
+55;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37701;Zabali;Finished;241;Individuals
+56;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37701;Reserva;Finished;51;Individuals
+57;PRC;Relief;Hot Meals;Biscuits;377;37701;Reserva;Finished;200;Individuals
+58;PRC;Relief;Hot Meals;Biscuits;377;37701;Zabali;Finished;242;Individuals
+59;PRC;Relief;Hot Meals;Hot Meals;377;37701;Reserva;Finished;200;Individuals
+60;PRC;Relief;Hot Meals;Hot Meals;377;37701;Zabali;Finished;242;Individuals
+65;IFRC;Assessment;Assessment;Assessment;1401;140101;;Finished;1;Municipality
+66;Unknown;Assessment;Assessment;Assessment;128;12804;;Finished;1;Municipality
+67;IFRC;Assessment;Assessment;Assessment;250;25005;;Finished;1;Municipality
+68;PRC;Relief;Hot Meals;Hot Meals;250;25005;Salvacion;Finished;808;Individuals
+69;IFRC;Assessment;Assessment;Assessment;1444;144404;;Finished;1;Municipality
+70;PRC;Rescue;Search and Rescue;Rescue;1444;144404;;Finished;53;Individuals
+71;PRC;Health;PSS;Welfare Desk;1444;144404;;Finished;1;Evacuation Center
+72;PRC;Relief;Non-Food Item;Blanket;1444;144404;;For Completion;53;Families
+73;PRC;Relief;Non-Food Item;Plastic Mat;1444;144404;;For Completion;20;Families
+74;PRC;Relief;Non-Food Item;Mosquito Net;1444;144404;;For Completion;22;Families
+75;IFRC;Assessment;Assessment;Assessment;1401;140103;;Finished;1;Municipality
+76;Unknown;Assessment;Assessment;Assessment;128;12806;;Finished;1;Municipality
+77;IFRC;Assessment;Assessment;Assessment;231;23106;;Finished;1;Municipality
+78;IFRC;Assessment;Assessment;Assessment;349;34903;;Finished;1;Municipality
+79;PRC;Health;PSS;Welfare Desk;349;34903;;Finished;2;Evacuation Center
+80;PRC;Relief;Hot Meals;Hot Meals;349;34903;Sangitan Este;Finished;249;Individuals
+81;PRC;Relief;Hot Meals;Hot Meals;349;34903;Bonifacio;Finished;295;Individuals
+82;PRC;Health;PSS;Welfare Desk;257;25702;San Marcos;Finished;1;Chapter
+83;IFRC;Assessment;Assessment;Assessment;1481;148104;;Finished;1;Municipality
+84;PRC;WASH;Hygiene Promotion;Hygiene Promotion;314;31407;;Finished;126;Individuals
+85;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Bulusan;Finished;3;Families
+86;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Poblacion;Finished;31;Families
+87;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Sapang Bayan;Finished;86;Families
+88;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;San Miguel;Finished;20;Families
+89;PRC;Relief;Food Items;Food (2-3 day) Ration;314;31407;Gatbuca;Finished;51;Families
+90;PRC;Health;PSS;Psychosocial Support;314;31407;Poblacion;Finished;70;Individuals
+91;PRC;Health;PSS;Psychosocial Support;314;31407;Gatbuca;Finished;30;Individuals
+92;IFRC;Assessment;Assessment;Assessment;231;23108;;Finished;1;Municipality
+94;PRC;Health;PSS;Psychosocial Support;377;37702;Esperanza;Finished;34;Individuals
+95;PRC;Health;PSS;Psychosocial Support;377;37702;Culat;Finished;63;Individuals
+96;PRC;Relief;Hot Meals;Biscuits;377;37702;;Finished;1424;Individuals
+97;PRC;Relief;Hot Meals;Hot Meals;155;15503;;Finished;334;Individuals
+98;IFRC;Assessment;Assessment;Assessment;1432;143213;;Finished;1;Municipality
+99;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1432;143213;;Finished;171;Individuals
+100;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Lanna;Finished;28;Families
+101;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;;Finished;33;Families
+102;IFRC;Assessment;Assessment;Assessment;1481;148102;;Finished;1;Municipality
+103;GRC;Assessment;Assessment;Detailed Assessment;1481;148102;;Finished;1;Municipality
+104;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;1481;148102;Sacpil;Finished;147;Families
+105;Unknown;Assessment;Assessment;Assessment;128;12808;;Finished;1;Municipality
+106;Unknown;Health;PSS;Welfare Desk;155;15518;;Finished;1;Chapter
+107;IFRC;Assessment;Assessment;Assessment;231;23118;;Finished;1;Municipality
+108;IFRC;Assessment;Assessment;Assessment;377;37704;;Finished;1;Municipality
+109;IFRC;Assessment;Assessment;Assessment;377;37705;;Finished;1;Municipality
+110;Unknown;Assessment;Assessment;Assessment;128;12809;;Finished;1;Municipality
+111;PRC;Health;PSS;Psychosocial Support;377;37706;South Poblacion;Finished;48;Individuals
+112;PRC;Health;PSS;Psychosocial Support;377;37706;North Poblacion;Finished;42;Individuals
+113;PRC;Health;PSS;Psychosocial Support;377;37706;North Poblacion;Finished;15;Individuals
+114;PRC;WASH;Hygiene Promotion;Hygiene Promotion;377;37706;;Finished;501;Individuals
+115;PRC;Relief;Hot Meals;Biscuits;377;37706;South Poblacion;Finished;545;Individuals
+116;PRC;Relief;Hot Meals;Biscuits;377;37706;North Poblacion;Finished;103;Individuals
+117;PRC;Relief;Hot Meals;Hot Meals;377;37706;South Poblacion;Finished;545;Individuals
+118;PRC;Relief;Hot Meals;Hot Meals;377;37706;North Poblacion;Finished;103;Individuals
+119;IFRC;Assessment;Assessment;Assessment;1401;140107;;Finished;1;Municipality
+120;IFRC;Assessment;Assessment;Assessment;250;25007;;Finished;1;Municipality
+121;IFRC;Assessment;Assessment;Assessment;250;25008;;Finished;1;Municipality
+122;IFRC;Assessment;Assessment;Assessment;215;21512;;Finished;1;Municipality
+123;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;215;21512;Marracuru;Finished;178;Families
+124;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;Roma Norte;Finished;126;Families
+125;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;Roma Norte;Finished;126;Families
+126;NZAID;WASH;Non-Food Item;Hygiene Kit;215;21512;Roma Norte;Finished;126;Families
+127;PRC;Relief;Non-Food Item;Blanket;215;21512;Roma Norte;Finished;126;Families
+128;PRC;Relief;Non-Food Item;Mosquito Net;215;21512;Roma Norte;Finished;126;Families
+129;PRC;Relief;Non-Food Item;Plastic Mat;215;21512;Roma Norte;Finished;126;Families
+130;Unknown;Relief;Hot Meals;Hot Meals;215;21512;Roma Norte;Finished;300;Individuals
+131;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;215;21512;Roma Norte;Finished;300;Individuals
+132;IFRC;Assessment;Assessment;Detailed Assessment;215;21512;;Finished;1;Municipality
+139;IFRC;Relief;Non-Food Item;Blanket;215;21512;San Antonio;Finished;180;Families
+140;IFRC;Relief;Non-Food Item;Mosquito Net;215;21512;San Antonio;Finished;180;Families
+141;IFRC;Relief;Non-Food Item;Plastic Mat;215;21512;San Antonio;Finished;180;Families
+142;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;San Antonio;Finished;180;Families
+143;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21512;San Antonio;Finished;180;Families
+144;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;San Antonio;Finished;180;Families
+145;IFRC;Assessment;Assessment;Assessment;349;34907;;Finished;1;Municipality
+146;PRC;Health;PSS;Welfare Desk;215;21514;;Finished;1;Evacuation Center
+147;PRC;Relief;Hot Meals;Hot Meals;215;21514;Paradise;Finished;49;Individuals
+148;PRC;Health;PSS;Welfare Desk;371;37105;Palanginan;Finished;1;Chapter
+149;IFRC;Assessment;Assessment;Assessment;231;23114;;Finished;1;Municipality
+150;PRC;Health;PSS;Welfare Desk;231;23114;Osmena;Finished;1;Chapter
+151;GRC;WASH;Water;Water Ration;231;23114;Batong Labang;Finished;16000;Liters
+152;GRC;WASH;Water;Water Ration;231;23114;San Antonio;Finished;8000;Liters
+153;PRC;Relief;Non-Food Item;Blanket;1411;141106;;For Completion;45;Families
+154;PRC;Relief;Non-Food Item;Plastic Mat;1411;141106;;For Completion;45;Families
+155;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141106;;Finished;45;Families
+156;PRC;Relief;Non-Food Item;Blanket;1411;141108;;For Completion;30;Families
+157;PRC;Relief;Non-Food Item;Plastic Mat;1411;141108;;For Completion;30;Families
+158;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141108;;Finished;30;Families
+159;PRC;Relief;Non-Food Item;Blanket;1411;141110;;For Completion;60;Families
+160;PRC;Relief;Non-Food Item;Plastic Mat;1411;141110;;For Completion;60;Families
+161;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141110;;Finished;60;Families
+162;IFRC;Assessment;Assessment;Assessment;1401;140110;;Finished;1;Municipality
+163;PRC;Health;PSS;Welfare Desk;1427;142704;;Finished;1;Chapter
+164;IFRC;Assessment;Assessment;Assessment;1401;140111;;Finished;1;Municipality
+165;PRC;Health;PSS;Psychosocial Support;128;12812;Caaoacan;Finished;58;Individuals
+166;PRC;Health;PSS;Welfare Desk;128;12812;Caaoacan;Finished;1;Evacuation Center
+167;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 23;Finished;1;Chapter
+168;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 29, Santo Tomas;Finished;1;Evacuation Center
+169;PRC;Health;PSS;Welfare Desk;128;12812;Barangay No. 1, San Lorenzo;Finished;1;Evacuation Center
+170;PRC;WASH;Hygiene Promotion;Hygiene Promotion;128;12812;Caaoacan;Finished;58;Individuals
+171;PRC;Relief;Hot Meals;Juice;128;12812;Caaoacan;Finished;109;Individuals
+172;PRC;Relief;Hot Meals;Juice;128;12812;;Finished;28;Individuals
+173;PRC;Relief;Hot Meals;Juice;128;12812;Barangay No. 29, Santo Tomas;Finished;115;Individuals
+174;PRC;Relief;Hot Meals;Juice;128;12812;Barangay No. 1, San Lorenzo;Finished;137;Individuals
+175;PRC;Relief;Hot Meals;Bread;128;12812;Caaoacan;Finished;109;Individuals
+176;PRC;Relief;Hot Meals;Bread;128;12812;;Finished;28;Individuals
+177;PRC;Relief;Hot Meals;Bread;128;12812;Barangay No. 29, Santo Tomas;Finished;115;Individuals
+178;PRC;Relief;Hot Meals;Bread;128;12812;Barangay No. 1, San Lorenzo;Finished;137;Individuals
+179;IFRC;Assessment;Assessment;Assessment;1401;140108;;Finished;1;Municipality
+180;IFRC;Assessment;Assessment;Assessment;215;21517;;Finished;1;Municipality
+181;IFRC;Relief;Non-Food Item;Blanket;215;21517;;Finished;569;Families
+182;IFRC;Relief;Non-Food Item;Mosquito Net;215;21517;;Finished;569;Families
+183;IFRC;Relief;Non-Food Item;Plastic Mat;215;21517;;Finished;569;Families
+184;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21517;;Finished;165;Families
+185;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21517;;Finished;608;Families
+186;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21517;;Finished;272;Families
+187;NZAID;Relief;Non-Food Item;Blanket;215;21517;;Finished;39;Families
+188;PRC;Relief;Non-Food Item;Mosquito Net;215;21517;;Finished;39;Families
+189;PRC;Relief;Non-Food Item;Plastic Mat;215;21517;;Finished;39;Families
+190;PRC;Shelter;Non-Food Item;Tarpaulin;215;21517;;Finished;336;Families
+191;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21517;;Finished;443;Families
+192;PRC;Health;PSS;Welfare Desk;1481;148105;Poblacion;Finished;1;Evacuation Center
+193;IFRC;Relief;Non-Food Item;Blanket;1481;148105;Calayucay ;Finished;72;Families
+194;IFRC;Relief;Non-Food Item;Mosquito Net;1481;148105;Calayucay ;Finished;72;Families
+195;IFRC;Relief;Non-Food Item;Plastic Mat;1481;148105;Calayucay ;Finished;72;Families
+196;IFRC;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Calayucay ;Finished;72;Families
+197;IFRC;WASH;Non-Food Item;Hygiene Kit;1481;148105;Calayucay ;Finished;72;Families
+198;IFRC;Shelter;Non-Food Item;Tarpaulin;1481;148105;Calayucay ;Finished;72;Families
+199;IFRC;Relief;Non-Food Item;Blanket;1481;148105;Calabigan;Finished;54;Families
+200;IFRC;Relief;Non-Food Item;Mosquito Net;1481;148105;Calabigan;Finished;54;Families
+201;IFRC;Relief;Non-Food Item;Plastic Mat;1481;148105;Calabigan;Finished;54;Families
+202;IFRC;WASH;Non-Food Item;Jerry Can (20L);1481;148105;Calabigan;Finished;54;Families
+203;IFRC;WASH;Non-Food Item;Hygiene Kit;1481;148105;Calabigan;Finished;54;Families
+204;IFRC;Shelter;Non-Food Item;Tarpaulin;1481;148105;Calabigan;Finished;54;Families
+211;PRC;Health;PSS;Welfare Desk;314;31410;Guinhawa;Finished;1;Chapter
+212;IFRC;Assessment;Assessment;Assessment;1401;140116;;Finished;1;Municipality
+213;Unknown;Assessment;Assessment;Assessment;128;12813;;Finished;1;Municipality
+214;PRC;Health;PSS;Psychosocial Support;257;25706;Dissimungal;Finished;100;Individuals
+215;Unknown;Assessment;Assessment;Assessment;128;12815;;Finished;1;Municipality
+216;Unknown;Assessment;Assessment;Assessment;128;12816;;Finished;1;Municipality
+217;IFRC;Assessment;Assessment;Detailed Assessment;215;21519;;Finished;1;Municipality
+218;IFRC;Assessment;Assessment;Assessment;215;21519;;Finished;1;Municipality
+219;PRC;Relief;Non-Food Item;Blanket;215;21519;Patagueleg;Finished;171;Families
+220;PRC;Relief;Non-Food Item;Mosquito Net;215;21519;Patagueleg;Finished;171;Families
+221;PRC;Relief;Non-Food Item;Plastic Mat;215;21519;Patagueleg;Finished;171;Families
+222;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21519;Patagueleg;Finished;171;Families
+223;NZAID;WASH;Non-Food Item;Jerry Can (20L);215;21519;Patagueleg;Finished;171;Families
+224;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21519;Patagueleg;Finished;171;Families
+225;PRC;Relief;Non-Food Item;Blanket;215;21519;Parabba;Finished;95;Families
+226;PRC;Relief;Non-Food Item;Mosquito Net;215;21519;Parabba;Finished;95;Families
+227;PRC;Relief;Non-Food Item;Plastic Mat;215;21519;Parabba;Finished;95;Families
+228;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21519;Parabba;Finished;95;Families
+229;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21519;Parabba;Finished;95;Families
+230;NZAID;WASH;Non-Food Item;Hygiene Kit;215;21519;Parabba;Finished;95;Families
+231;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21519;Patagueleg;For Validation;171;Families
+232;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21519;Parabba;For Validation;95;Families
+233;IFRC;Assessment;Assessment;Assessment;1401;140117;;Finished;1;Municipality
+234;IFRC;Assessment;Assessment;Assessment;1401;140119;;Finished;1;Municipality
+235;IFRC;Assessment;Assessment;Assessment;1432;143209;;Finished;1;Municipality
+236;Unknown;WASH;Hygiene Promotion;Hygiene Promotion;1432;143209;;Finished;90;Individuals
+237;SRC;Assessment;Assessment;Detailed Assessment;1432;143209;;Finished;1;Municipality
+238;GRC;Assessment;Assessment;Detailed Assessment;1481;148106;;Finished;1;Municipality
+239;IFRC;Assessment;Assessment;Assessment;1481;148106;;Finished;1;Municipality
+240;IFRC;Assessment;Assessment;Assessment;215;21521;;Finished;1;Municipality
+241;IFRC;Assessment;Assessment;Assessment;1432;143211;;Finished;1;Municipality
+242;Unknown;WASH;Non-Food Item;Hygiene Kit;1432;143211;San Quintin;Finished;78;Families
+243;Unknown;WASH;Non-Food Item;Hygiene Kit;1432;143211;San Vicente;Finished;61;Families
+244;Unknown;Relief;Non-Food Item;Plastic Mat;1432;143211;San Quintin;For Completion;78;Families
+245;Unknown;Relief;Non-Food Item;Mosquito Net;1432;143211;San Quintin;For Completion;78;Families
+246;Unknown;Relief;Non-Food Item;Plastic Mat;1432;143211;San Vicente;For Completion;61;Families
+247;Unknown;Relief;Non-Food Item;Mosquito Net;1432;143211;San Vicente;For Completion;61;Families
+248;SRC;Assessment;Assessment;Detailed Assessment;1432;143211;;Finished;1;Municipality
+249;IFRC;Assessment;Assessment;Assessment;1401;140120;;Finished;1;Municipality
+250;PRC;Health;PSS;Welfare Desk;354;35416;Sto. Nino;Finished;1;Chapter
+251;PRC;Health;PSS;Welfare Desk;133;13314;Barangay 2;Finished;1;Chapter
+252;IFRC;Assessment;Assessment;Assessment;1401;140121;;Finished;1;Municipality
+253;IFRC;Assessment;Assessment;Assessment;1401;140122;;Finished;1;Municipality
+254;IFRC;Assessment;Assessment;Assessment;231;23133;;Finished;1;Municipality
+255;Unknown;Relief;Non-Food Item;Blanket;231;23133;San Jose;Finished;54;Families
+256;Unknown;Relief;Non-Food Item;Mosquito Net;231;23133;San Jose;Finished;54;Families
+257;Unknown;Relief;Non-Food Item;Plastic Mat;231;23133;San Jose;Finished;54;Families
+258;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23133;San Jose;Finished;54;Families
+259;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23133;San Jose;Finished;54;Families
+260;Unknown;Relief;Non-Food Item;Blanket;231;23133;Bungad;Finished;19;Families
+261;Unknown;Relief;Non-Food Item;Mosquito Net;231;23133;Bungad;Finished;19;Families
+262;Unknown;Relief;Non-Food Item;Plastic Mat;231;23133;Bungad;Finished;19;Families
+263;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23133;Bungad;Finished;19;Families
+264;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23133;Bungad;Finished;19;Families
+265;Unknown;Relief;Non-Food Item;Blanket;231;23133;Minangan Norte;Finished;30;Families
+266;Unknown;Relief;Non-Food Item;Mosquito Net;231;23133;Minangan Norte;Finished;30;Families
+267;Unknown;Relief;Non-Food Item;Plastic Mat;231;23133;Minangan Norte;Finished;30;Families
+268;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23133;Minangan Norte;Finished;30;Families
+269;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23133;Minangan Norte;Finished;30;Families
+270;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23133;Minanga Sur;Finished;47;Families
+271;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23133;Calamagui;Finished;17;Families
+272;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23133;Ballacayu;Finished;49;Families
+273;Unknown;Relief;Non-Food Item;Blanket;231;23133;San Vicente;Finished;42;Families
+274;Unknown;Relief;Non-Food Item;Mosquito Net;231;23133;San Vicente;Finished;42;Families
+275;Unknown;Relief;Non-Food Item;Plastic Mat;231;23133;San Vicente;Finished;42;Families
+276;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23133;San Vicente;Finished;42;Families
+277;IFRC;Assessment;Assessment;Detailed Assessment;231;23133;;Finished;1;Municipality
+278;IFRC;Relief;Non-Food Item;Blanket;231;23133;Binguang;Finished;38;Families
+279;IFRC;Relief;Non-Food Item;Mosquito Net;231;23133;Binguang;Finished;38;Families
+280;IFRC;Relief;Non-Food Item;Plastic Mat;231;23133;Binguang;Finished;38;Families
+281;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23133;Binguang;Finished;38;Families
+282;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23133;Binguang;Finished;38;Families
+283;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23133;Binguang;Finished;38;Families
+284;IFRC;Relief;Non-Food Item;Blanket;231;23133;Auitan;Finished;40;Families
+285;IFRC;Relief;Non-Food Item;Mosquito Net;231;23133;Auitan;Finished;40;Families
+286;IFRC;Relief;Non-Food Item;Plastic Mat;231;23133;Auitan;Finished;40;Families
+287;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23133;Auitan;Finished;40;Families
+288;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23133;Auitan;Finished;40;Families
+289;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23133;Auitan;Finished;40;Families
+290;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23133;San Vicente;Finished;42;Families
+291;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23133;San Vicente;Finished;42;Families
+292;IFRC;Assessment;Assessment;Assessment;231;23134;;Finished;1;Municipality
+293;PRC;Relief;Non-Food Item;Blanket;231;23134;Quigabian;Finished;60;Families
+294;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Quigabian;Finished;60;Families
+295;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Quigabian;Finished;60;Families
+296;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;Quigabian;Finished;60;Families
+297;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Quigabian;Finished;60;Families
+298;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;Buenavista;Finished;35;Families
+299;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Buenavista;Finished;35;Families
+300;PRC;Relief;Non-Food Item;Blanket;231;23134;Buenavista;Finished;35;Families
+301;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Buenavista;Finished;35;Families
+302;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Buenavista;Finished;35;Families
+303;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Rafael East ;Finished;20;Families
+304;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;San Rafael East ;Finished;20;Families
+305;PRC;Relief;Non-Food Item;Blanket;231;23134;San Rafael East ;Finished;20;Families
+306;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;San Rafael East ;Finished;20;Families
+307;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;San Rafael;Finished;20;Families
+308;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;Poblacion 3;Finished;61;Families
+309;NZAID;WASH;Non-Food Item;Hygiene Kit;231;23134;Poblacion 3;Finished;61;Families
+310;PRC;Relief;Non-Food Item;Blanket;231;23134;Poblacion 3;Finished;61;Families
+311;PRC;Relief;Non-Food Item;Mosquito Net;231;23134;Poblacion 3;Finished;61;Families
+312;PRC;Relief;Non-Food Item;Plastic Mat;231;23134;Poblacion 3;Finished;61;Families
+313;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23134;Bangad;Finished;69;Families
+314;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Isidro West;Finished;32;Families
+315;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23134;San Isidro West;Finished;32;Families
+316;Unknown;Relief;Non-Food Item;Blanket;231;23134;San Isidro West;Finished;32;Families
+317;Unknown;Relief;Non-Food Item;Mosquito Net;231;23134;San Isidro West;Finished;32;Families
+318;Unknown;Relief;Non-Food Item;Plastic Mat;231;23134;San Isidro West;Finished;32;Families
+319;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Isidro East;Finished;29;Families
+320;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23134;San Isidro East;Finished;29;Families
+321;Unknown;Relief;Non-Food Item;Blanket;231;23134;San Isidro East;Finished;29;Families
+322;Unknown;Relief;Non-Food Item;Mosquito Net;231;23134;San Isidro East;Finished;29;Families
+323;Unknown;Relief;Non-Food Item;Plastic Mat;231;23134;San Isidro East;Finished;29;Families
+324;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;Poblacion 1;Finished;24;Families
+325;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23134;Poblacion 1;Finished;24;Families
+326;Unknown;Relief;Non-Food Item;Blanket;231;23134;Poblacion 1;Finished;24;Families
+327;Unknown;Relief;Non-Food Item;Mosquito Net;231;23134;Poblacion 1;Finished;24;Families
+328;Unknown;Relief;Non-Food Item;Plastic Mat;231;23134;Poblacion 1;Finished;24;Families
+329;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23134;Calamagui North;Finished;49;Families
+330;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23134;Calamagui North;Finished;49;Families
+331;Unknown;Relief;Non-Food Item;Blanket;231;23134;Calamagui North;Finished;49;Families
+332;Unknown;Relief;Non-Food Item;Mosquito Net;231;23134;Calamagui North;Finished;49;Families
+333;Unknown;Relief;Non-Food Item;Plastic Mat;231;23134;Calamagui North;Finished;49;Families
+334;IFRC;Relief;Non-Food Item;Blanket;231;23134;Divisoria;Finished;53;Families
+335;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;Divisoria;Finished;53;Families
+336;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;Divisoria;Finished;53;Families
+337;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;Divisoria;For Validation;53;Families
+338;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;Divisoria;Finished;53;Families
+339;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;Divisoria;Finished;53;Families
+340;IFRC;Relief;Non-Food Item;Blanket;231;23134;Naganakan;Finished;85;Families
+341;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;Naganakan;Finished;85;Families
+342;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;Naganakan;Finished;85;Families
+343;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;Naganakan;For Validation;85;Families
+344;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;Naganakan;Finished;85;Families
+345;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;Naganakan;Finished;85;Families
+346;IFRC;Relief;Non-Food Item;Blanket;231;23134;San Antonio;Finished;51;Families
+347;IFRC;Relief;Non-Food Item;Mosquito Net;231;23134;San Antonio;Finished;51;Families
+348;IFRC;Relief;Non-Food Item;Plastic Mat;231;23134;San Antonio;Finished;51;Families
+349;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23134;San Antonio;For Validation;51;Families
+350;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23134;San Antonio;Finished;51;Families
+351;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23134;San Antonio;Finished;51;Families
+352;IFRC;Assessment;Assessment;Detailed Assessment;231;23134;;Finished;1;Municipality
+353;IFRC;Assessment;Assessment;Assessment;231;23136;;Finished;1;Municipality
+354;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Norte;Finished;20;Families
+355;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Sur;Finished;35;Families
+356;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;San Vicente;Finished;31;Families
+357;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Bagutari;Finished;40;Families
+358;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23136;San Roque;Finished;39;Families
+359;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23136;San Rafael Alto;Finished;39;Families
+360;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23136;Biga Occidental;Finished;51;Families
+361;Unknown;Shelter;Non-Food Item;Tarpaulin;231;23136;Biga Oriental;Finished;34;Families
+362;Unknown;Relief;Non-Food Item;Blanket;231;23136;Antagan;Finished;28;Families
+363;Unknown;Relief;Non-Food Item;Mosquito Net;231;23136;Antagan;Finished;28;Families
+364;Unknown;Relief;Non-Food Item;Plastic Mat;231;23136;Antaga;Finished;28;Families
+365;Unknown;WASH;Non-Food Item;Jerry Can (20L);231;23136;Antagan;Finished;28;Families
+366;Unknown;WASH;Non-Food Item;Hygiene Kit;231;23136;Antagan;Finished;28;Families
+367;IFRC;Relief;Non-Food Item;Blanket;231;23136;Calinauan Centro;Finished;22;Families
+368;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Calinauan Centro;Finished;22;Families
+369;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Calinauan Centro;Finished;22;Families
+370;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinauan Centro;For Validation;22;Families
+371;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Calinauan Centro;Finished;22;Families
+372;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Calinauan Centro;Finished;22;Families
+373;IFRC;Relief;Non-Food Item;Blanket;231;23136;Calinauan Norte;Finished;9;Families
+374;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Calinauan Norte;Finished;9;Families
+375;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Calinauan Norte;Finished;9;Families
+376;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinauan Norte;For Validation;9;Families
+377;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Calinauan Norte;Finished;9;Families
+378;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Calinauan Norte;Finished;9;Families
+379;IFRC;Relief;Non-Food Item;Blanket;231;23136;Canogan Alto;Finished;37;Families
+380;IFRC;Relief;Non-Food Item;Mosquito Net;231;23136;Canogan Alto;Finished;37;Families
+381;IFRC;Relief;Non-Food Item;Plastic Mat;231;23136;Canogan Alto;Finished;37;Families
+382;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Canogan Alto;For Validation;37;Families
+383;IFRC;WASH;Non-Food Item;Hygiene Kit;231;23136;Canogan Alto;Finished;37;Families
+384;IFRC;Shelter;Non-Food Item;Tarpaulin;231;23136;Canogan Alto;Finished;37;Families
+385;Unknown;Relief;Non-Food Item;Blanket;231;23136;Bubug;Finished;16;Families
+386;Unknown;Relief;Non-Food Item;Mosquito Net;231;23136;Bubug;Finished;16;Families
+387;Unknown;Relief;Non-Food Item;Plastic Mat;231;23136;Bubug;Finished;16;Families
+388;Unknown;Relief;Non-Food Item;Blanket;231;23136;Calinaoan Malasin;Finished;16;Families
+389;Unknown;Relief;Non-Food Item;Mosquito Net;231;23136;Calinaoan Malasin;Finished;16;Families
+390;Unknown;Relief;Non-Food Item;Plastic Mat;231;23136;Calinaoan Malasin;Finished;16;Families
+391;Unknown;Relief;Non-Food Item;Blanket;231;23136;Malapagay;Finished;15;Families
+392;Unknown;Relief;Non-Food Item;Mosquito Net;231;23136;Malapagay;Finished;15;Families
+393;Unknown;Relief;Non-Food Item;Plastic Mat;231;23136;Malapagay;Finished;15;Families
+394;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Calinaoan malasin;Finished;16;Families
+395;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Malapagay;Finished;15;Families
+396;IFRC;WASH;Non-Food Item;Jerry Can (20L);231;23136;Bubug;Finished;16;Families
+397;Unknown;Assessment;Assessment;Assessment;128;12821;;Finished;1;Municipality
+398;IFRC;Assessment;Assessment;Assessment;215;21527;;Finished;1;Municipality
+399;IFRC;Assessment;Assessment;Detailed Assessment;215;21527;;Finished;1;Municipality
+400;Unknown;Assessment;Assessment;Assessment;128;12822;;Finished;1;Municipality
+401;GRC;Assessment;Assessment;Detailed Assessment;1481;148107;;Finished;1;Municipality
+402;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Bacneng;Finished;18;Families
+403;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baliling;Finished;8;Families
+404;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Balete;Finished;1;Families
+405;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Bantinan;Finished;7;Families
+406;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Buyasyas;Finished;3;Families
+407;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Baracbac;Finished;11;Families
+408;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Poblacion;Finished;3;Families
+409;Singapore Red Cross;Relief;Food Items;Food (2-3 day) Ration;250;25012;Villaflores;Finished;8;Families
+410;IFRC;Assessment;Assessment;Assessment;215;21526;;Finished;1;Municipality
+411;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;215;21526;Virginia;Finished;162;Families
+412;IFRC;Relief;Non-Food Item;Blanket;1432;143213;Cabaruan;Finished;24;Families
+413;IFRC;Relief;Non-Food Item;Mosquito Net;1432;143213;Cabaruan;Finished;24;Families
+414;IFRC;Relief;Non-Food Item;Plastic Mat;1432;143213;Cabaruan;Finished;24;Families
+415;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Cabaruan;Finished;24;Families
+416;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Cabaruan;Finished;24;Families
+417;IFRC;Shelter;Non-Food Item;Tarpaulin;1432;143213;Cabaruan;Finished;24;Families
+436;SRC;Assessment;Assessment;Detailed Assessment;1432;143213;;Finished;1;Municipality
+437;PRC;Health;PSS;Welfare Desk;1432;143213;Bulanao Norte;Finished;1;Chapter
+438;PRC;Health;PSS;Welfare Desk;369;36916;San Vicente;Finished;1;Chapter
+439;IFRC;Assessment;Assessment;Assessment;1401;140124;;Finished;1;Municipality
+440;IFRC;Assessment;Assessment;Assessment;1401;140125;;Finished;1;Municipality
+441;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143215;Tuglao;Finished;21;Families
+442;PRC;Relief;Non-Food Item;Blanket;1411;141113;;For Completion;60;Families
+443;PRC;Relief;Non-Food Item;Plastic Mat;1411;141113;;For Completion;60;Families
+444;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141113;;Finished;60;Families
+445;PRC;Relief;Non-Food Item;Blanket;1411;141114;;For Completion;22;Families
+446;PRC;Relief;Non-Food Item;Plastic Mat;1411;141114;;For Completion;22;Families
+447;PRC;WASH;Non-Food Item;Hygiene Kit;1411;141114;;Finished;22;Families
+448;IFRC;Assessment;Assessment;Assessment;215;21529;;Finished;1;Municipality
+449;Team8kam;Relief;Food Items;Food (2-3 day) Ration;215;21529;Pallua Sur;Finished;450;Families
+450;PRC;Health;PSS;Psychosocial Support;215;21529;;Finished;4;Individuals
+451;PRC;Relief;Hot Meals;Hot Meals;215;21529;;Finished;100;Individuals
+452;PRC;Relief;Non-Food Item;Blanket;215;21529;Centro 11;Finished;296;Families
+453;PRC;Relief;Non-Food Item;Mosquito Net;215;21529;Centro 11;Finished;296;Families
+454;PRC;Relief;Non-Food Item;Plastic Mat;215;21529;Centro 11;Finished;296;Families
+455;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21529;Centro 11;Finished;296;Families
+456;NZAID;WASH;Non-Food Item;Jerry Can (20L);215;21529;Centro 11;Finished;296;Families
+457;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21529;Centro 11;Finished;296;Families
+458;PRC;Relief;Non-Food Item;Blanket;215;21529;Centro 9;Finished;90;Families
+459;PRC;Relief;Non-Food Item;Mosquito Net;215;21529;Centro 9;Finished;90;Families
+460;PRC;Relief;Non-Food Item;Plastic Mat;215;21529;Centro 9;Finished;90;Families
+461;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21529;Centro 9;Finished;90;Families
+462;PRC;WASH;Non-Food Item;Jerry Can (20L);215;21529;Centro 9;Finished;90;Families
+463;NZAID ;WASH;Non-Food Item;Hygiene Kit;215;21529;Centro 9;Finished;90;Families
+464;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Tanza;Finished;30;Tons
+465;Unknown;Health;Health;BP Taking;215;21529;;Finished;100;Individuals
+466;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21529;Centro 11;For Validation;296;Families
+467;PRC;Relief;Food Items;Food (2-3 day) Ration;215;21529;Centro 9;For Validation;90;Families
+468;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Ugac Sur;Finished;100;Tons
+469;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Arellano, Centro 5;Finished;130;Tons
+470;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Likaro, Centro 5;Finished;300;Tons
+471;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Catagaman Nuevo;Finished;240;Tons
+472;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Caritan;Finished;120;Tons
+473;IFRC;WASH;Sanitation;Debris Clearing;215;21529;Leonarda;Finished;150;Tons
+474;IFRC;Assessment;Assessment;Assessment;231;23137;;Finished;1;Municipality
+475;IFRC;Assessment;Assessment;Assessment;1401;140127;;Finished;1;Municipality
+476;PRC;Rescue;Search and Rescue;Rescue;231;;;Finished;28;Individuals
+477;PRC;Rescue;Search and Rescue;Rescue;129;;;Finished;3;Individuals
+478;PRC;Health;PSS;Psychosocial Support;129;;;Finished;4;Individuals
+479;PRC;Health;PSS;Psychosocial Support;1444;;;Finished;53;Individuals
+480;PRC;Relief;Hot Meals;Hot Meals;231;;;Finished;1251;Individuals
+481;PRC;Health;Health;BP Taking;129;;;Finished;1;Individuals
+482;PRC;Relief;Hot Meals;Hot Meals;1444;;;Finished;53;Individuals
+483;PRC;Health;Health;BP Taking;1444;;;Finished;15;Individuals
+484;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1444;;;Finished;8;Individuals
+485;PRC;WASH;Non-Food Item;Jerry Can (20L);1444;;;Finished;2;Families
+486;PRC;Relief;Hot Meals;Hot Meals;129;;;Finished;92;Individuals
+487;PRC;Relief;Hot Meals;Bottled Water;129;;;Finished;92;Individuals
+488;Unknown;Health;PSS;Psychosocial Support;1432;;;Finished;8;Individuals
+489;Unknown;Relief;Hot Meals;Hot Meals;133;;;Finished;149;Individuals
+490;Unknown;Relief;Hot Meals;Hot Meals;1401;;;Finished;62;Individuals
