@@ -62,15 +62,12 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 61;PRC;Relief;Hot Meals;Biscuits;377;37701;Zabali;Finished;242;Individuals
 62;PRC;Relief;Hot Meals;Hot Meals;377;37701;Reserva;Finished;200;Individuals
 63;PRC;Relief;Hot Meals;Hot Meals;377;37701;Zabali;Finished;242;Individuals
-64;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Lipcan Ubbog;Planned;180;Families
 65;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Sta. Rosa;Finished;230;Families
 66;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Cosili West;Finished;50;Families
-67;Singapore RC;Relief;Food Items;Food (2-3 day) Ration;1401;140101;Patucannay;Planned;50;Families
 68;IFRC;Assessment;Assessment;Assessment;1401;140101;;Finished;1;Municipality
 69;PRC;Assessment;Assessment;Assessment;128;12804;;Finished;1;Municipality
 70;PRC;Shelter;Non-Food Item;Blanket;1444;144402;Gundazan Norte;Finished;1;Families
 71;NZAID;Shelter;Non-Food Item;Mosquito Net;1444;144402;Gundazan Norte;Finished;1;Families
-72;Unknown;WASH;Non-Food Item;Jerry Can (20L);215;21512;Bato;Planned;216;Families
 73;IFRC;WASH;Non-Food Item;Jerry Can (20L);215;21512;San Antonio;Finished;180;Families
 74;PRC;Relief;Hot Meals;Hot Meals;215;21514;Paradise;Finished;49;Individuals
 75;PRC;Shelter;Non-Food Item;Blanket;1444;144402;Monamon Norte;Finished;2;Families
@@ -198,7 +195,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 197;IFRC;Assessment;Assessment;Assessment;250;25008;;Finished;1;Municipality
 198;PRC;Relief;Non-Food Item;Mosquito Net;215;21512;Roma Norte;Finished;126;Families
 199;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21512;San Antonio;Finished;900;Individuals
-200;Unknown;WASH;Non-Food Item;Hygiene Kit;215;21512;Bato;Planned;216;Families
 201;IFRC;WASH;Non-Food Item;Hygiene Kit;215;21512;San Antonio;Finished;180;Families
 202;PRC;Health;PSS;Welfare Desk;371;37102;Palanginan;Finished;1;Chapter
 203;PRC;Relief;Non-Food Item;Blanket;1411;141106;;Finished;45;Families
@@ -276,8 +272,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 275;IFRC;Assessment;Assessment;Assessment;215;21512;;Finished;1;Municipality
 276;PRC;Relief;Non-Food Item;Plastic Mat;215;21512;Roma Norte;Finished;126;Families
 277;PRC;Relief;Non-Food Item;Doll Shoes;231;23118;San Antonio;Finished;192;Students
-278;Unknown;Relief;Non-Food Item;Blanket;215;21512;Bato;Planned;216;Families
-279;Unknown;Shelter;Non-Food Item;Tarpaulin;215;21512;Bato;Planned;216;Families
 280;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;San Antonio;Finished;180;Families
 281;IFRC;Assessment;Assessment;Assessment;231;23114;;Finished;1;Municipality
 282;PRC;Relief;Non-Food Item;Plastic Mat;1411;141106;;Finished;45;Families
@@ -363,7 +357,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 362;IFRC;Shelter;Non-Food Item;Tarpaulin;215;21512;Roma Norte;Finished;126;Families
 363;NZAID;WASH;Non-Food Item;Hygiene Kit;215;21512;Roma Norte;Finished;126;Families
 364;PRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21512;Roma Norte;Finished;630;Individuals
-365;Unknown;Relief;Non-Food Item;Plastic Mat;215;21512;Bato;Planned;216;Families
 366;IFRC;Relief;Non-Food Item;Plastic Mat;215;21512;San Antonio;Finished;180;Families
 367;PRC;Health;PSS;Welfare Desk;215;21514;;Finished;1;Evacuation Center
 368;German RC;WASH;Water;Water Ration;231;23114;Batong Labang;Finished;16000;Liters
@@ -440,7 +433,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 439;IFRC;Relief;Non-Food Item;Blanket;215;21517;Taggao;Finished;11;Families
 440;IFRC;Relief;Non-Food Item;Mosquito Net;215;21517;Taggao;Finished;11;Families
 441;PRC;Relief;Hot Meals;Hot Meals;215;21512;Roma Norte;Finished;300;Individuals
-442;Unknown;Relief;Non-Food Item;Mosquito Net;215;21512;Bato;Planned;216;Families
 443;IFRC;Relief;Non-Food Item;Mosquito Net;215;21512;San Antonio;Finished;180;Families
 444;IFRC;Assessment;Assessment;Assessment;349;34907;;Finished;1;Municipality
 445;PRC;Health;PSS;Welfare Desk;231;23114;Osmena;Finished;1;Chapter
@@ -635,8 +627,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 634;IFRC;Relief;Non-Food Item;Plastic Mat;1432;143209;Balayangaon;Finished;1;Families
 635;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143209;Balayangaon;Finished;1;Families
 636;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143209;Balayangaon;Finished;1;Families
-637;PRC;WASH;Non-Food Item;Hygiene Kit;1432;143209;Sucbot;For Verification;33;Families
-638;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143209;Asibanglan;For Verification;1;Families
 639;IFRC;Assessment;Assessment;Assessment;1481;148106;;Finished;1;Municipality
 640;German RC;Assessment;Assessment;Detailed Assessment;1481;148106;;Finished;1;Municipality
 641;IFRC;Relief;Non-Food Item;Blanket;1481;148106;Mataguisi;Finished;28;Families
@@ -1054,12 +1044,6 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1053;IFRC;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Laya West;Finished;52;Families
 1054;IFRC;WASH;Non-Food Item;Hygiene Kit;1432;143213;Laya West;Finished;52;Families
 1055;IFRC;Shelter;Non-Food Item;Tarpaulin;1432;143213;Laya West;Finished;52;Families
-1056;Unknown;Relief;Non-Food Item;Blanket;1432;143213;Magsaysay;Planned;29;Families
-1057;Unknown;Relief;Non-Food Item;Mosquito Net;1432;143213;Magsaysay;Planned;29;Families
-1058;Unknown;Relief;Non-Food Item;Plastic Mat;1432;143213;Magsaysay;Planned;29;Families
-1059;Unknown;WASH;Non-Food Item;Jerry Can (20L);1432;143213;Magsaysay;Planned;29;Families
-1060;Unknown;WASH;Non-Food Item;Hygiene Kit;1432;143213;Magsaysay;Planned;29;Families
-1061;Unknown;Shelter;Non-Food Item;Tarpaulin;1432;143213;Magsaysay;Planned;29;Families
 1062;IFRC;Relief;Non-Food Item;Blanket;1432;143213;Laya East ;Finished;7;Families
 1063;IFRC;Relief;Non-Food Item;Mosquito Net;1432;143213;Laya East ;Finished;7;Families
 1064;IFRC;Relief;Non-Food Item;Plastic Mat;1432;143213;Laya East ;Finished;7;Families
@@ -1124,6 +1108,22 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1123;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;215;21529;Centro 11;Finished;1575;Individuals
 1124;NZAID;WASH;Hygiene Promotion;Hygiene Promotion;215;21529;Centro 9;Finished;450;Individuals
 1125;IFRC;Assessment;Assessment;Assessment;231;23137;;Finished;1;Municipality
+1126;IFRC;Assessment;Assessment;Assessment;1401;140127;;Finished;1;Municipality
+1127;PRC;Rescue;Search and Rescue;Rescue;231;;;Finished;28;Individuals
+1128;PRC;Rescue;Search and Rescue;Rescue;129;;;Finished;3;Individuals
+1129;PRC;Health;PSS;Psychosocial Support;129;;;Finished;4;Individuals
+1130;PRC;Health;PSS;Psychosocial Support;1444;;;Finished;53;Individuals
+1131;PRC;Relief;Hot Meals;Hot Meals;231;;;Finished;1251;Individuals
+1132;PRC;Health;Health;BP Taking;129;;;Finished;1;Individuals
+1133;PRC;Relief;Hot Meals;Hot Meals;1444;;;Finished;53;Individuals
+1134;PRC;Health;Health;BP Taking;1444;;;Finished;15;Individuals
+1135;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1444;;;Finished;8;Individuals
+1136;PRC;WASH;Non-Food Item;Jerry Can (20L);1444;;;Finished;2;Families
+1137;PRC;Relief;Hot Meals;Hot Meals;129;;;Finished;92;Individuals
+1138;PRC;Relief;Hot Meals;Bottled Water;129;;;Finished;92;Individuals
+1139;PRC;Health;PSS;Psychosocial Support;1432;;;Finished;8;Individuals
+1140;PRC;Relief;Hot Meals;Hot Meals;133;;;Finished;149;Individuals
+1141;PRC;Relief;Hot Meals;Hot Meals;1401;;;Finished;62;Individuals
 1126;IFRC;Assessment;Assessment;Assessment;1401;140127;;Finished;1;Municipality
 1127;PRC;Rescue;Search and Rescue;Rescue;231;;;Finished;28;Individuals
 1128;PRC;Rescue;Search and Rescue;Rescue;129;;;Finished;3;Individuals
