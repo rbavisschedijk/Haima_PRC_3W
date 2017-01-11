@@ -122,7 +122,7 @@
                     .overlayGeoJson(provincesJSON.features, "Province", function (d) {
                         return d.properties.P_Str;
                     })
-                    .projection(d3.geo.mercator().center([124,17.5]).scale(8000))
+                    .projection(d3.geo.mercator().center([123,13.5]).scale(8000))
                     .title(function (d) {
                         return "Province: " + pcode2prov[d.key] + " - " + d.value + ' activities';
                     });
@@ -138,7 +138,7 @@
                             .overlayGeoJson(municJSON.features, "Municipalities", function (d) {
                                 return d.properties.MUN_P_STR;
                             })
-                            .projection(d3.geo.mercator().center([124,17.5]).scale(8000))
+                            .projection(d3.geo.mercator().center([123,13.5]).scale(8000))
                             .title(function (d) {
                                 return "Municipality: " + mcode2mun[d.key] + " - " + d.value + ' activities';
                             });
