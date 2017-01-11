@@ -138,7 +138,7 @@
                             .overlayGeoJson(municJSON.features, "Municipalities", function (d) {
                                 return d.properties.MUN_P_STR;
                             })
-                            .projection(d3.geo.mercator().center([123,17.5]).scale(8000))
+                            .projection(d3.geo.mercator().center([170,17.5]).scale(8000))
                             .title(function (d) {
                                 return "Municipality: " + mcode2mun[d.key] + " - " + d.value + ' activities';
                             });
